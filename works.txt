@@ -1,0 +1,75 @@
+CSEL1: SULPICIUS SEVERUS, Opera; PSEUDO-SULPICIUS SEVERUS, Epistulae
+CSEL2: FIRMICUS MATERNUS, De errore profanarum religionum; MINUCIUS FELIX
+CSEL3_1: CYPRIANUS, Ad Donatum, Quod Idola Dii non sint, Testimonia ad Quirinum, De Habitu Virginum, De Catholicae Ecclesiae Unitate, De Lapsis, De Dominica Oratione, De Mortalitate, Ad Fortunatum, Ad Demetrianum, De Opere et Eleemosynis, De Bono Patientiae, De Zelo et Livore, Sententiae Episcoporum
+CSEL3_2: CYPRIANUS, Epistulae
+CSEL3_3: PSEUDO-CYPRIANUS, De Spectaculis, De Bono Pudicitiae, De Laude Martyrii, Ad Novatianum, De Rebaptismate, De Aleatoribus, De Montibus Sina et Sion, Ad Vigilium de Iudaica Incredulitate, Adversus Iudaeos, Oratio I, Oratio II, De Duodecim Abusivis Saeculi, De Singularitate Clericorum, De Duplici Martyrio, De Pascha Computens, Epistulae, Carmina
+CSEL4: ARNOBIUS, Adversus nationes
+CSEL5: OROSIUS, Historiae adversus paganos, Apologeticus
+CSEL6: ENNODIUS, Opera
+CSEL7: VICTOR VITENSIS, Historia persecutionis Africanae provinciae, PSEUDO-VICTOR VITENSIS, Passio septem monachorum, Notitia provinciarum et civitatum Africae
+CSEL8: SALVIANUS, De gubernatione dei, Epistulae, Ad ecclesiam
+CSEL9_1: EUGIPPIUS, Epistula ad Probam virginem, Vita S. Severini
+CSEL9_2: EUGIPPIUS, Excerpta ex operibus S. Augustini
+CSEL10: SEDULIUS, Carmen paschale, Opus paschale, Epistulae;
+CSEL11: CLAUDIANUS MAMERTUS, De statu animae, Epistula ad Sapaudum
+CSEL12: AUGUSTINUS, Speculum, Liber de divinis scripturis
+CSEL13: Iohannes CASSIANUS, Conlationes
+CSEL14: LUCIFER CALARITANUS, De non conveniendo cum haereticis, De regibus apostaticis, De sancto Athanasio, De non parcendo in deum delinquentibus, Moriendum esse pro dei filio, Epistulae
+CSEL15: COMMODIANUS, Carmen apologeticum, Instructiones
+CSEL16: Poetae Christiani Minores: PAULINUS PETRICORDIAE, Carmina; ORIENTIUS, Carmina; PAULINUS PELLAEUS, Eucharisticos; CLAUDIUS MARIUS VICTOR, Alethia; PROBA, Cento; ANONYMUS, Sancti Paulini epigramma, Versus ad gratiam domini, De verbi incarnatione, De ecclesia; 1888
+CSEL17: Iohannes CASSIANUS, De institutis coenobiorum et de octo principalium vitiorum remediis, De incarnatione Domini contra Nestorium; editio altera supplementis aucta
+CSEL18: OROSIUS, Commonitorium de errore Priscillianistarum et Origenistarum; PRISCILLIANUS, Tractatus, Canones
+CSEL19: LACTANTIUS, Divinae institutiones, Epitome divinarum institutionum
+CSEL20: TERTULLIANUS, De spectaculis, De idololatria, Ad nationes, De testimonio animae, Scorpiace, De oratione, De baptismo, De ieiunio, De anima, De pudicitia
+CSEL21: FAUSTUS REIENSIS, Opera
+CSEL22: HILARIUS PICTAVIENSIS, Tractatus super psalmos
+CSEL23: CYPRIANUS, Heptateuchos, Fragmenta; PSEUDO-HILARIUS, De Sodoma, De Iona propheta, In Genesin ad Leonem papam, De martyrio Maccabaeorum, De evangelio; MARIUS VICTORINUS, De Machabeis
+CSEL24: IUVENCUS, Evangeliorum libri
+CSEL25_1: AUGUSTINUS, De utilitate credendi, De duabus animabus, Contra Fortunatum Manichaeum, Contra Adimantum, Contra epistulam fundamenti, Contra Faustum Manichaeum
+CSEL25_2: AUGUSTINUS, Contra Felicem Manichaeum, De natura boni, Contra Secundinum Manichaeum, Commonitorium; SECONDINUS, Epistula Secundini; EUODIUS, De Fide contra Manicheos
+CSEL26: OPTATUS MILEVITANUS, Contra Parmenianum Donatistam, Appendix decem monumentorum veterum
+CSEL27: LACTANTIUS, De opificio dei, De ira dei, De Ave Phoenice, Carmina, Fragmenta, De mortibus persecutorum
+CSEL28_1: AUGUSTINUS, De Genesi ad litteram liber imperfectus, De Genesi ad litteram, Locutiones in Heptateuchum
+CSEL28_2: AUGUSTINUS, Quaestiones in Heptateuchum, Adnotationes in Iob
+CSEL29: PAULINUS NOLANUS, Epistulae; editio altera supplementis aucta
+CSEL30: PAULINUS NOLANUS, Carmina; PAULINUS PELLAEUS, Oratio; editio altera supplementis aucta
+CSEL31: EUCHERIUS, Opera
+CSEL32_1: AMBROSIUS, Hexameron, De paradiso, De Cain, De Noe, De Abraham, De Isaac, De bono mortis
+CSEL32_2: AMBROSIUS, De Iacob, De Ioseph, De patriarchis, De fuga saeculi, De interpellatione Iob et David, De apologia prophetae David, De Helia, De Nabuthae, De Tobia
+CSEL32_4: AMBROSIUS, Expositio evangelii secundum Lucam
+CSEL33: AUGUSTINUS, Confessiones
+CSEL34_1: AUGUSTINUS, Epistulae 1-30
+CSEL34_2: AUGUSTINUS, Epistulae 31-123
+CSEL35_1: Epistulae Imperatorum Pontificum Aliorum I
+CSEL35_2: Epistulae Imperatorum Pontificum Aliorum II
+CSEL36: AUGUSTINUS, Retractationes
+CSEL37: CASSIODORUS, Contra Apionem
+CSEL38: FILASTRIUS, Diversarum hereseon liber
+CSEL39: ITINERARIA HIEROSOLYMITANA
+CSEL40_1: AUGUSTINUS, De civitate Dei
+CSEL40_2: AUGUSTINUS, De civitate Dei
+CSEL41: AUGUSTINUS, De fide et symbolo, De fide et operibus, De agone christiano, De continentia, De bono coniugali, De virginitate, De bono viduitatis, De adulterinis coniugiis, De mendacio, Contra mendacium, De opere monachorum, De divinatione daemonum, De cura pro mortuis gerenda, De patientia
+CSEL42: AUGUSTINUS, De perfectione iustitiae hominis, De gestis Pelagii, De gratia Christi, De nuptiis et concupiscentia
+CSEL43: AUGUSTINUS, De consensu evangelistarum
+CSEL44: AUGUSTINUS, Epistulae 124-184
+CSEL45: EVAGRIUS, Altercatio legis inter Simonem Iudaeum et Theophilum Christianum
+CSEL46: RUFINUS, Interpretatio orationum Gregorii Nazianzeni
+CSEL47: TERTULLIANUS, De patientia, De carnis resurrectione, Adversus Hermogenem, Adversus Valentinianos, Adversus omnes haereses, Adversus Praxean, Adversus Marcionem
+CSEL48: BOETHIUS, In Prophyrii isagogen commenta
+CSEL49: VICTORINUS PETAVIONENSIS, Opera
+CSEL50: PSEUDO-AUGUSTINUS, Quaestiones veteris et novi testamenti
+CSEL51: AUGUSTINUS, Psalmus contra partem Donati, Contra epistulam Parmeniani, De baptismo
+CSEL52: AUGUSTINUS, Contra litteras Petiliani, Epistula ad catholicos de secta Donatistarum, Contra Cresconium grammaticum et Donatistam
+CSEL53: AUGUSTINUS, De unico baptismo, Breviculus collationis cum Donatistis, Contra partem Donati post gesta, Sermo ad Caesariensis ecclesiae plebem, Gesta cum Emerito Donatistarum episcopo, Contra Gaudentium Donatistarum episcopum
+CSEL54: HIERONYMUS, Epistulae 1-70/1918; editio altera supplementis aucta 1996
+CSEL55: HIERONYMUS, Epistulae 71-120/1918; editio altera supplementis aucta 1996
+CSEL56: HIERONYMUS, Epistulae 121-154, Epistularum Indices/1918
+CSEL57: AUGUSTINUS, Epistulae 185-270
+CSEL58: AUGUSTINUS, Epistulae: Praefatio et indices
+CSEL59: HIERONYMUS, In Hieremiam prophetam
+CSEL60: AUGUSTINUS, De peccatorum meritis et remissione et de baptismo parvulorum, De spiritu et littera, De natura et gratia, De natura et origine animae, Contra duas epistulas Pelagianorum
+CSEL62: AMBROSIUS, Expositio de psalmo CXVIII, editio altera supplementis aucta
+CSEL63: AUGUSTINUS, Contra Academicos, De beata vita, De ordine
+CSEL64: AMBROSIUS, Explanatio super psalmos XII; editio altera supplementis aucta
+CSEL65: HILARIUS PICTAVIENSIS, Tractatus mysteriorum, Fragmenta, Ad Constantium Imperatorem, Hymni; PSEUDO-HILARIUS, Epistula ad Abram filiam, Hymni
+CSEL67: BOETHIUS, De consolatione philosophiae
