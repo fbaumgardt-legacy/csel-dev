@@ -1,0 +1,742 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" type="textpart" subtype="poem" n="6">
+          <ab>
+            <title>VI. AD FLAVIVM FELICEM DE RESVRRECTIONE MORTVORVM. </title>
+          </ab>
+          <l n="1"><milestone unit="para"/><sic>Qoi</sic> mihi <choice><sic>rnricolas</sic><corr>ruricolas</corr></choice> <choice><sic>optani</sic><corr>optaui</corr></choice> carmine <choice><sic>mosas</sic><corr>musas</corr></choice>  </l>
+            <l n="2">Et <choice><sic>nernis</sic><corr>uernis</corr></choice> roseas <sic>titolani</sic> floribus auras  </l>
+            <l n="3"><choice><sic>Aestinasque</sic><corr>Aestiuasque</corr></choice> <choice><sic>granes</sic><corr>graues</corr></choice> <sic n="poss">maturaui</sic> messis aristas,  </l>
+            <l n="4">Succidi tumidas autumni uitibus uuas  </l>
+            <l n="5">Et hiemis placidas laudaui semper oliuas  </l>
+            <l n="6">Adque modulatas exclusi fontibus <choice><sic>nndas</sic><corr>undas</corr></choice>  </l>
+            <l n="7">Frondentisque uago cecini de gramine siluas:  </l>
+            <l n="8">Protinus aetherias modulabor luminis oras,  </l>
+            <l n="9">Iam mihi luciferas liceat contingere musas,  </l>
+            <l n="10">Pandere'secretas fluuiali uertice nymphas  </l>
+            <l n="11">Et laetas alio positas sub sidere siluas,  </l>
+            <l n="12">Aeternasque simul memorabo carmine flammas,  </l>
+            <l n="13">'Vnde mare in tumidas inmensum fluctuet undas,  </l>
+            <l n="14">Quae uirtus moneat solidas tremiscere terras,  </l>
+            <l n="15">Et lux unde <choice n="0.22"><sic n="95">nono</sic><corr n="329">nouo</corr></choice> praefulserit aurea mundo, </l>
+
+<note type="footnote"> 69 uitae] uita est <hi rend="italic">Aldus</hi>. — Hymnum de paacha Iesu Christi explicit <lb/>
+            <hi rend="italic">EM</hi>. — <lb/>
+            Incipit Caecilii Cypriani ad Flauium Felicem de resurrectione mortuorum <lb/>
+            <hi rend="italic">T,</hi> Ad Felicem de resurrectione mortuorum <hi rend="italic">D,</hi> inscriptionem <lb/>
+            om. <hi rend="italic">W,</hi> Tertulliani de iudicio domini liber unus <hi rend="italic">Fabricius</hi> qui hoc car- <lb/>
+            <hi rend="italic">men primus edidit</hi>. — 1 ruriculas <hi rend="italic">T</hi> obtauit <hi rend="italic">TW</hi> 2 titulanit<lb/>
+             <hi rend="italic">TW1</hi> 8 maturauit <hi rend="italic">TW1</hi> arista <hi rend="italic">D</hi> 4 succidit <hi rend="italic">TW</hi> <lb/>
+            humidas <hi rend="italic">W</hi> autumnis <hi rend="italic">NolU theolog. Quartalschr. 1868 p. 444</hi> <lb/>
+            6 laudaui <hi rend="italic">scripsi,</hi> laudari <hi rend="italic">TW,</hi> laudare <hi rend="italic">Dv</hi> olibaa <hi rend="italic">D</hi> 6 exclusit<lb/>
+             <hi rend="italic">TW</hi> frontibus <hi rend="italic">T</hi> 7 frondentesque <hi rend="italic">Wx</hi> 8 protenns <hi rend="italic">W</hi> <lb/>
+            taepitu aethereas v oras <hi rend="italic">T,</hi> horas <hi rend="italic">DW,</hi> anras v 10 pluuiali <hi rend="italic">T</hi> <lb/>
+            nymfas <hi rend="italic">D,</hi> lymphas <hi rend="italic">Fabric</hi>. 12 memorabor <hi rend="italic">T</hi> flammaw <hi rend="italic">TW,</hi> <lb/>
+            mnsas <hi rend="italic">Dv</hi> 13 in <hi rend="italic">addidi non propter numeros quorum causa nihil <lb/>
+            est in hoc carmine</hi> mutandum 14 moneat <hi rend="italic">TW,</hi> moneat <hi rend="italic">JDv</hi> <lb/>
+            tremesoere <hi rend="italic">T</hi> </note> <lb n="15"/>
+             
+<pb n="309"/>
+            <l n="16">Quis hominem laeto potuisset fingere limo,  </l>
+            <l n="17"><choice n="0.19"><sic n="14">Vade</sic><corr n="59">Vnde</corr></choice> genus uacuo potuisset crescere saeclo,  </l>
+            <l n="18">Et uaria populo quae sit uiuendi cupido,  </l>
+            <l n="19">Quae creata malo primum moriendi propago,  </l>
+            <l n="20">Vnde bonus roseis odorque pudorque coronis,  </l>
+            <l n="21">Quid faciat laetis ut uitis aestuet uuis,  </l>
+            <l n="22"><sic>Vtque</sic> <choice n="0.06"><sic n="64">nona</sic><corr n="938">noua</corr></choice> teneris lactescant hordea culmis,  </l>
+            <l n="23">Arbor ut in glaciem nigris <choice><sic>pnbescat</sic><corr>pubescat</corr></choice> oliuis,  </l>
+            <l n="24">Germinibus <choice n="0.08"><sic n="28">naris</sic><corr n="305">uariis</corr></choice> quis det crementa <choice><sic>nigoris</sic><corr>uigoris</corr></choice>  </l>
+            <l n="25">Mollibus et matrem filiorum protegat umbris.  </l>
+            <l n="26">Omnia nosse bonum quae sint incepta ramorum,  </l>
+            <l n="27">Yt per cuncta Deum liceat agnoscere <choice><sic>uerllm</sic><corr>uerum</corr></choice>,  </l>
+            <l n="28">Qui lucem maria caelum terramque parauit  </l>
+            <l n="29">Ornauitque nonum uariato sidere mundum  </l>
+             <l n="30">Et pecudes primum et uolucres procedere iussit  </l>
+            <l n="31">Et dedit aequoreas conplere piscibus undas  </l>
+            <l n="32">Adque <sic>fecnndatas</sic> animalibus egit harenas.  </l>
+            <l n="33">Talia conpositis deducam carmina musis  </l>
+            <l n="34">Salubremque nonis exponam fontibus undam  </l>
+             <l n="35">Et laetum placidis uenientem nubibus imbrem,  </l>
+            <l n="36">In animas hominum penitus ultroque fluentem,  </l>
+            <l n="37">Excipiam plenis in nostra noualia riuis.  </l>
+
+          <l n="38"><milestone unit="para"/>Nunc age securam uiuamque attingite nympham </l>
+
+
+<note type="footnote"> 16 fingere limo <hi rend="italic">T in ras</hi>. 17 om. <hi rend="italic">T</hi> saeculo <hi rend="italic">W</hi> <lb/>
+            18 cubido <hi rend="italic">W</hi> 19 creata] creta <hi rend="italic">T</hi> 20 roseis odorque] ros et <hi rend="italic">W</hi> <lb/>
+            pudorq. <hi rend="italic">D,</hi> sudorque <hi rend="italic">WI,</hi> ruborque <hi rend="italic">T et W 8. I. m. 2</hi> 21 laetus <lb/>
+            <hi rend="italic">W</hi> 8 <hi rend="italic">s. I</hi>. astuat <hi rend="italic">T</hi> 22 teneris <hi rend="italic">TW,</hi> ueteris Dv iactescant <lb/>
+            <hi rend="italic">TW,</hi> lactescat <hi rend="italic">D,</hi> flauescat a culmo <hi rend="italic">W</hi> 23 ut in <hi rend="italic">scripsi,</hi> . <lb/>
+            ut <hi rend="italic">DTW,</hi> et ut <hi rend="italic">v</hi> glacie <hi rend="italic">W</hi> olibis <hi rend="italic">D</hi> 24 det crementa. <lb/>
+            <hi rend="italic">T,</hi> decrementa <hi rend="italic">DWx</hi> uigoris <hi rend="italic">W,</hi> uiroris <hi rend="italic">DTv</hi> 25 molibus <hi rend="italic">W,</hi> <lb/>
+            moribus <hi rend="italic">T</hi> imbris <hi rend="italic">W</hi> 26 incerta <hi rend="italic">W</hi> ramarom <hi rend="italic">W1</hi> <lb/>
+            11 liceat per cuncta deum <hi rend="italic">Tv,</hi> per cuncta liceat deum <hi rend="italic">D</hi> agnu-<lb/>
+             Mere <hi rend="italic">W</hi> uirum <hi rend="italic">D1</hi> 28 qui <hi rend="italic">om. T</hi> mariam <hi rend="italic">T</hi> 29 <hi rend="italic">uers. <lb/>
+            post</hi> u. <hi rend="italic">30 exh. DTW</hi> - uariado <hi rend="italic">D,</hi> uariando c sidera <hi rend="italic">T</hi> <lb/>
+            30 <hi rend="italic">alt</hi>. et om. <hi rend="italic">DTx</hi> procedere iussit om. <hi rend="italic">W</hi> 31 compleri <hi rend="italic">T</hi> <lb/>
+            32 agit <hi rend="italic">W,</hi> augpt <hi rend="italic">uel</hi> auxit <hi rend="italic">fort</hi>. arenas <hi rend="italic">Dv</hi> 34 nonis <hi rend="italic">scripsi,</hi> nobis <lb/>
+            <hi rend="italic">DTW,</hi> nobis c expromam <hi rend="italic">malim</hi> 35 placidis] pladis <hi rend="italic">W</hi> 36 paenitos<lb/>
+             u. fluente <hi rend="italic">D</hi> 88 secura <hi rend="italic">D</hi> attingere DTv nymfam <hi rend="italic">DW,</hi> <lb/>
+            lympham v </note> <lb/>
+             
+<pb n="310"/>
+            <l n="39">Et celeres <sic>nitae</sic> <choice><sic>faoilem</sic><corr>facilem</corr></choice> <choice><sic>haiirite</sic><corr>haurite</corr></choice> liquorem.  </l>
+            <l n="40">Si quis <choice><sic>nelit</sic><corr>uelit</corr></choice> poenas aeternae <choice><sic>enadere</sic><corr>euadere</corr></choice> flammae  </l>
+            <l n="41"><sic>Ignarasque</sic> die <choice><sic>nenturique</sic><corr>uenturique</corr></choice> inscius aevi  </l>
+            <l n="42">Et iustae potius adipisci praemia <choice><sic>nttae</sic><corr>uitae</corr></choice>,  </l>
+            <l n="43">Hunc unum meminisse Deum solumque <choice><sic>preeancIom</sic><corr>precandum</corr></choice>,  </l>
+            <l n="44">Qui totum in libra posuit <choice><sic>snb</sic><corr>sub</corr></choice> limine <choice><sic>muadum</sic><corr>mundum</corr></choice>,  </l>
+            <l n="45">Aeternumque manens semperque futurus in aeuum,  </l>
+            <l n="46">Saecula cuncta tenens, et ante saecula solus,  </l>
+            <l n="47">Ingenitus sine fine Deus <sic>thronumque</sic> diuinum  </l>
+            <l n="48">Solus habens caelum semper supereminet altum  </l>
+            <l n="49">Omnipotens solus, cui parent omnia rerum,  </l>
+            <l n="50">[Pater filius spiritus qui sunt semper in <choice n="0.00"><sic n="1">nnum</sic><corr n="2947">unum</corr></choice>]  </l>
+            <l n="51"><choice><sic>Qni</sic><corr>Qui</corr></choice> sibi conplacitum hominem formauit in aenum,  </l>
+            <l n="52"><choice><sic>Fastorem</sic><corr>Pastorem</corr></choice> pecudum, dominum dedit esse ferarum  </l>
+            <l n="53">Iusque dedit uolucrum pontumque solum dominandum,  </l>
+            <l n="54">Qui sermone tenus potuit extendere caelum  </l>
+            <l n="55">Et solidam uerbo iussit suspendere terram  </l>
+            <l n="56">Ac dicto citius separauit aequoris undam,  </l>
+            <l n="57">Hanc manibus caram dilexit fingere formam  </l>
+            <l n="58">Decoramque suam uoluit inesse figuram,  </l>
+            <l n="59">Spiritu uiuificam adflauit uultibus auram.  </l>
+
+          <l n="60"><milestone unit="para"/>Immemor ille Dei, temere conmittere tanta,  </l>
+            <l n="61">Nec ultra monitum quicquam contingeret: unum,  </l>
+            <l n="62"><choice><sic>Ynde</sic><corr>Vnde</corr></choice> malum sciret et unde dinosceret aequum  </l>
+            <l n="63">Protinus, inlicitum uetuit contingere pomum.  </l>
+            <l n="64">Quanta Deus homini permisit munera mundi  </l>
+            <l n="65">Et praedulce sui signauit pignus amoris,  </l>
+            <l n="66">Ytilia et cara tribuit mandata salutis,  </l>
+            <l n="67"><choice><sic>Snb</sic><corr>Sub</corr></choice> dicione dedit terras animamque uiuentem, </l>
+
+<note type="footnote">: 39 celeres] caelestis <hi rend="italic">W</hi> 40 quis <hi rend="italic">DTfJ</hi> nellit <hi rend="italic">W</hi> flmnam <hi rend="italic">W,</hi> <lb/>
+            flama <hi rend="italic">T</hi> 41 die <hi rend="italic">DT,</hi> dei <hi rend="italic">W</hi> 43 deum meminisse <hi rend="italic">D</hi> <lb/>
+            44 libram <hi rend="italic">T</hi> lumine <hi rend="italic">W</hi> 45 aeternusque <hi rend="italic">W</hi> nus <hi rend="italic">8. I</hi>. <lb/>
+            46 et ante <hi rend="italic">DTW,</hi> ante omnia <hi rend="italic">Fabr. et v</hi> solis <hi rend="italic">W</hi> 48 caelos <lb/>
+            D, caelo <hi rend="italic">Tv</hi> semper om. <hi rend="italic">W</hi> alto <hi rend="italic">DTWv</hi> 50 <hi rend="italic">om. TW</hi> <lb/>
+            spiritus sanctus <hi rend="italic">D</hi> 52 dedit esse <hi rend="italic">Fabr.,</hi> dedisse <hi rend="italic">DFWv</hi> 56 dicto <lb/>
+            citius <hi rend="italic">T in ras</hi>. 57 curam <hi rend="italic">T</hi> 62 aequm <hi rend="italic">D,</hi> aecum <hi rend="italic">T ■</hi> 66 ut <lb/>
+            illa <hi rend="italic">T</hi> I et cara <hi rend="italic">W,</hi> cara <hi rend="italic">DTv</hi> tribuit ipse <hi rend="italic">W</hi>-</note> <lb/>
+             
+<pb n="311"/>
+            <l n="68">Pinnatumque genus pecudes genus omne ferarum  </l>
+            <l n="69">Et genus aequoreum animalia cuncta <choice><sic>natantmn</sic><corr>natantum</corr></choice>.  </l>
+            <l n="70">Sed quoniam primo transgressus crimine legem  </l>
+            <l n="71">Iam iam primus homo Domini mandata mutabat,  </l>
+            <l n="72">Coniuge cuncta mala suadente morte peribat.  </l>
+            <l n="73">Nam peccati malum conmisit femina primum  </l>
+             <l n="74">Prodidit adque suum decepit lege maritum.  </l>
+            <l n="75">Eua persuasa male pate fecit limina leto  </l>
+            <l n="76">Et sibi cum genere creauit funera toto.  </l>
+            <l n="77">Hinc (nefas infaustum) mors emanauit in aeuum.  </l>
+            <l n="78">Inde magis facinus facile percrebruit altum,  </l>
+            <l n="79">Agricolaeque labor agitauit saeuius annum.  </l>
+            <l n="80">Callidus hoc zelo serpens iniecit iniquo.  </l>
+            <l n="81">Inde magis populi multa conmissa malorum  </l>
+            <l n="82">Et nefanda malis pepererunt semina factis.  </l>
+
+          <l n="83"><milestone unit="para"/>Idcircoque Deus solus, cui summa potestas,  </l>
+            <l n="84">Et super alta tenens summa fastigia caeli,  </l>
+            <l n="85">Altus inaccessam habitans in saecula lucem  </l>
+            <l n="86">Praeteritique memor et praescius ante futuri,  </l>
+            <l n="87">Progeniem meriti decretum seruat in aeuum:  </l>
+            <l n="88">Et cunctas animas quae corpora tarde gubernant  </l>
+            <l n="89">Et ratione mouent hominem uagante per artus,  </l>
+            <l n="90">Vt primum posito membrorum pondere cedunt  </l>
+            <l n="91">Terrenisque leues resolutae nexibus ibunt  </l>
+            <l n="92">Ac proprias repetent diuersis partibus oras,  </l>
+            <l n="93">Illicet occultis alias includi tenebris, </l>
+
+<note type="footnote"> 68 pennatumque v pecudes genus <hi rend="italic">W</hi> 8. <hi rend="italic">I</hi>. 69, natantum <lb/>
+            <hi rend="italic">DT,</hi> natandum <hi rend="italic">W,</hi> natantia <hi rend="italic">v</hi> 70 primo <hi rend="italic">ex</hi> promo <hi rend="italic">W</hi> .71 . mutabat <lb/>
+            <hi rend="italic">D</hi> bat <hi rend="italic">in ras</hi>. 72 peribat <hi rend="italic">sup</hi>. pergebat <hi rend="italic">W m. 2</hi> 74 prodit <lb/>
+            <hi rend="italic">T</hi> adq. de <hi rend="italic">T sed</hi>. de 8. <hi rend="italic">I</hi>. decaepit leg <hi rend="italic">W,</hi> decepta lege ma- <lb/>
+            <hi rend="italic">litn</hi> 75 euua <hi rend="italic">W</hi> lumine <hi rend="italic">DT</hi> 76 funere <hi rend="italic">W alterum e 8. 1</hi>. <lb/>
+            77 infaustum <hi rend="italic">scripsi,</hi> incautum <hi rend="italic">DTWv</hi> emannauit <hi rend="italic">D,</hi> amauit <hi rend="italic">T</hi> <lb/>
+            78 praecrebuit <hi rend="italic">DT</hi> 79 <hi rend="italic">om. TW</hi> agrioraeque <hi rend="italic">D</hi> 80 callidos <lb/>
+            <hi rend="italic">T',</hi> calidus <hi rend="italic">W</hi> 81 multa populi <hi rend="italic">T</hi> 85 altus <hi rend="italic">swp</hi>. alius <lb/>
+            <hi rend="italic">W m. 2</hi> 88 corpore <hi rend="italic">D</hi> tarda <hi rend="italic">v</hi> • 89 homine <hi rend="italic">DT,</hi> <lb/>
+            ab homine <hi rend="italic">W</hi> uacante <hi rend="italic">TW</hi> 90 primum <hi rend="italic">TW,</hi> primo <hi rend="italic">Dv</hi> <lb/>
+            91 leues] lues <hi rend="italic">W</hi> 92 repetent <hi rend="italic">T,</hi> repetendi <hi rend="italic">W,</hi> reptent <hi rend="italic">Dv</hi> uersis <lb/>
+            <hi rend="italic">W</hi> oras <hi rend="italic">T,</hi> horas <hi rend="italic">W,</hi> oris <hi rend="italic">D,</hi> orbis v 93 tenebris <hi rend="italic">T,</hi> tenebras <lb/>
+            <hi rend="italic">DWx</hi> </note> <lb/>
+             
+<pb n="312"/>
+            <l n="94">Ast alias laetis reuocari protinus auris,  </l>
+             <l n="95">Seruari penitus decreta ad praemia legis,  </l>
+            <l n="96">Donec t iterum ortis resurgant corpora membris :  </l>
+            <l n="97">Nunc homines primae pensare faenora uitae  </l>
+            <l n="98"><choice><sic>Indicesque</sic><corr>Iudicesque</corr></choice> Dei memores astare priorum,  </l>
+            <l n="99">Expectare <choice><sic>snam</sic><corr>suam</corr></choice> suo quemque ex crimine poenam.  </l>
+             <l n="100">Funditus aut pecorum sine nomine t pondere <choice><sic>ftatu</sic><corr>flatu</corr></choice>,  </l>
+            <l n="101">Incassumue Dei finiendo t fundere flatum.  </l>
+
+          <l n="102"><milestone unit="para"/> An Deus omnipotens, cuius sub nutu reguntur  </l>
+            <l n="103">Omnia, non ualeat post mortem reddere uitam  </l>
+            <l n="104">Aut aliquid rerum Dominus non posse uidetur?  </l>
+            <l n="105">Si potuit tenebris claram excludere lucem  </l>
+            <l n="106">Adque omnem uerbo potuit conponere molem,  </l>
+            <l n="107">Omnia de nihilo potente uoce parare,  </l>
+            <l n="108">Cur non ex aliquo possit conpingere notam,  </l>
+            <l n="109">Quae fuerat quondam, quae uixerat ante figura,  </l>
+            <l n="110">Adsimilemque suae iubeat resurgere formam?  </l>
+            <l n="111">Cum sint cuncta Dei, reddet magis omnia tellus,  </l>
+            <l n="112"><choice n="0.68"><sic n="42">lassa</sic><corr n="19">Iussa</corr></choice>. reuocabit quidquid contexerat olim.  </l>
+            <l n="113">Si quem forte rogis aboleuit flamma <choice n="0.08"><sic n="1">sopitam</sic><corr n="11">sopitum</corr></choice>,  </l>
+            <l n="114">Aut aliquem caecis deiecerat aequor in undis,  </l>
+            <l n="115">Si cuiusque famem satiarunt uiscera piscis,  </l>
+            <l n="116">Aut fixere ferae crudelia funera membris,   </l>
+            <l n="117">Alitibus iacuit raptato corpore sanguis: </l>
+
+<note type="footnote"> 94 reuocare <hi rend="italic">DTx</hi> arois <hi rend="italic">fort. cf. 189,252</hi> 95 decrete <hi rend="italic">W</hi> <lb/>
+            ad <hi rend="italic">om. T</hi> 96 t iterum ortis scripsi, iterum mortis <hi rend="italic">DTWv</hi> 97 hominis <lb/>
+            <hi rend="italic">W</hi> 98 <hi rend="italic">usque ad vers</hi>. 119 necesse est om. <hi rend="italic">T</hi> iudicisque <lb/>
+            <hi rend="italic">DTv,</hi> iudiciisque <hi rend="italic">malim</hi> piorum <hi rend="italic">W</hi> 99 suam suo quemque] <lb/>
+            suumque <hi rend="italic">W</hi> 100 fundetur <hi rend="italic">W</hi> pondere om. <hi rend="italic">W</hi> flatum <hi rend="italic">W</hi> <lb/>
+            101 incasumue <hi rend="italic">D</hi> dei] det <hi rend="italic">W</hi> platum <hi rend="italic">D</hi> 102 an <hi rend="italic">om. W</hi> <lb/>
+            dñs <hi rend="italic">D</hi> regantur <hi rend="italic">W</hi> 103 ualeant <hi rend="italic">W1</hi> 104 dum <hi rend="italic">W</hi> <lb/>
+            105 tenebris <hi rend="italic">om. W</hi> 106 omnes v, omni <hi rend="italic">D</hi> moles <hi rend="italic">Dv</hi> <lb/>
+            107 nihilo] illius <hi rend="italic">add. Dv</hi> potenter <hi rend="italic">W</hi> 108 qur <hi rend="italic">D; incipit <lb/>
+            Aldhdmi fragmentum</hi> confingere Aldh. notum <hi rend="italic">W</hi> 109 figuram <lb/>
+            c 110 adsimilemque <hi rend="italic">scripsi,</hi> bimilemque <hi rend="italic">DWv,</hi> ac similemque <lb/>
+            <hi rend="italic">Aldh</hi>. 111 reddit <hi rend="italic">W,</hi> reddent <hi rend="italic">Dv</hi> 112 reuocauit <hi rend="italic">W</hi> 113 adolebit <lb/>
+            <hi rend="italic">W</hi> 115 <hi rend="italic">cuiusque D W,</hi> cuiuB a famem <hi rend="italic">DW,</hi> tamen v <lb/>
+            saciarunt <hi rend="italic">D,</hi> satiarent <hi rend="italic">W</hi> piscis <hi rend="italic">scripsi,</hi> pisces <hi rend="italic">DWv</hi> 116 finxerae <lb/>
+            D, finxere <hi rend="italic">Wv</hi> 117 raptato] iaptatos <hi rend="italic">W</hi> </note> <lb/>
+             
+<pb n="313"/>
+            <l n="118"><sic>Yltima</sic> nec Domino negabunt <choice><sic>fonera</sic><corr>funera</corr></choice> quemquam,  </l>
+            <l n="119">Adparere Deo <choice><sic>niuos</sic><corr>uiuos</corr></choice> de morte necesse est  </l>
+            <l n="120"><sic>Eeaumptisque</sic> suis homines astare figuris.  </l>
+            <l n="121">Semina sic <choice><sic>nersis</sic><corr>uersis</corr></choice> creduntur arida terris  </l>
+            <l n="122">Et penitus fixis <choice><sic>pntreecunt</sic><corr>putrescunt</corr></choice> mortua sulcis,  </l>
+            <l n="123">Inde reparatis animatur culmus <choice><sic>aristia</sic><corr>aristis</corr></choice>  </l>
+            <l n="124">Et iterum uiuis flauescunt fortia granis  </l>
+            <l n="125"><choice><sic>Consurguntque</sic><corr>Consurguutque</corr></choice> nouae uario cum faenore messes.  </l>
+            <l n="126">Sidera cuncta cadent, iterum renata lucescent,  </l>
+            <l n="127">Et dies in densam moritur cum lumine noctem,  </l>
+            <l n="128">Occidit inque diem nox rebus luce retectis  </l>
+            <l n="129">Ac dies alta suis iterum resurgit in astris.  </l>
+            <l n="130">Solque cadit supero splendorifer lumine claro,  </l>
+            <l n="131">Lux perit umbrato uenienti uespere mundo  </l>
+            <l n="132">Et remeat toto renouatque gaudia saeclo:  </l>
+            <l n="133">Sic cremata suo uiuit de funere foenix  </l>
+            <l n="134"><sic>Extemploque</sic> suo uolucris <choice><sic>resuigit</sic><corr>resurgit</corr></choice> e busto.  </l>
+            <l n="135">Et nudata foliis suo tempore fructicat arbor  </l>
+            <l n="136">Adque iterum pomi curuat ex germine ramos.  </l>
+
+          <l n="137"><milestone unit="para"/>Ergo ut ad uocem mundo tremente diuinam  </l>
+            <l n="138">Et penitus motis uirtutibus aeris alti  </l>
+            <l n="139">Tunc fragor insolitus et maxima murmura caeli  </l>
+            <l n="140">Promouente Deo, ueniente iudice mundi: </l>
+
+<note type="footnote"> 118 ultima <hi rend="italic">W,</hi> ultra Dv 119 apparare v uiuus <hi rend="italic">W</hi> 120 hastare <lb/>
+            <hi rend="italic">T</hi> 121 creduntur <hi rend="italic">W,</hi> credentur <hi rend="italic">DTv</hi> 122 patriscunt <hi rend="italic">W</hi> <lb/>
+            falcis <hi rend="italic">W</hi> 123 animantur culmi <hi rend="italic">T</hi> 125 none WI, nono <hi rend="italic">DT</hi> <lb/>
+            flario <hi rend="italic">Aldh.,</hi> uacuo <hi rend="italic">DTW</hi> faenore] fore <hi rend="italic">T</hi> 126 luciscent <lb/>
+            <hi rend="italic">W,</hi> lucescunt <hi rend="italic">T</hi> 127 densam oritur <hi rend="italic">W,</hi> desa moritur <hi rend="italic">T,</hi> densamoritur <lb/>
+            Dv nocte <hi rend="italic">Dv</hi> 128 retectis <hi rend="italic">W,</hi> requiescit <hi rend="italic">DTl,</hi> quiaacit <lb/>
+            T2v 129 resurget <hi rend="italic">DTv</hi> 130 cadet <hi rend="italic">DTv</hi> supero splendo- <lb/>
+            <hi rend="italic">rifer scripai, superoreferique DTW,</hi> splendoriferaque v; splendorifero qui' <lb/>
+            lumine clarus <hi rend="italic">Fabricius</hi> 132 remeat] renonat <hi rend="italic">W</hi> renouatque <lb/>
+            <hi rend="italic">Aldh.,</hi> renouatamq. <hi rend="italic">D,</hi> renouataq. <hi rend="italic">TWfJ</hi> gaudio <hi rend="italic">D</hi> saeculo <hi rend="italic">W</hi> <lb/>
+            133 phoenix v 134 extemploque suo] exemplo tuo <hi rend="italic">TW</hi> e busto] <lb/>
+            denuo ab aestu <hi rend="italic">TW</hi> (denuo <hi rend="italic">exp. T m. 2)</hi> 135 haec nudata <hi rend="italic">T,</hi> enudata <lb/>
+            Dv suo] sic <hi rend="italic">fort</hi>. fruticat <hi rend="italic">T</hi> 136 pomi curuat e. g. <lb/>
+            ramos <hi rend="italic">scripsi,</hi> pomis curuata e. g. ramis <hi rend="italic">DTWv</hi> 137 uoce m. t. diuina <lb/>
+            <hi rend="italic">W</hi> 139 fracor insulitus Wl 140 deo <hi rend="italic">W a. I</hi>. </note> <lb n="140"/>
+             
+<pb n="314"/>
+            <l n="141">Protinus innumeri concurrunt ire ministri,  </l>
+            <l n="142">Conuallantque Deum cum maiestate caelesti,  </l>
+            <l n="143">Angelica late descendunt agmina turbis.  </l>
+            <l n="144">Omnes nuntii Dei, quibus est diuina facultas  </l>
+            <l n="145">Praecipua et forma, <choice><sic>uivtutes</sic><corr>uirtutes</corr></choice> spiritus omnes.  </l>
+            <l n="146">Igneus his uigor est, rutilantia corpora, caeli  </l>
+            <l n="147">Vis diuina micat: hinc totus intonat aether,  </l>
+            <l n="148">Hinc trepidans terra penitus uniuersa remugit  </l>
+            <l n="149">Parturiens homines, quos reddere iussa debebit.  </l>
+            <l n="150">Mirantur comites, turbantur denique nimbi,  </l>
+            <l n="151">Astra mirata pauent subito uirtutis ab alto  </l>
+            <l n="152">Hinc iubente Deo facile cum uoce potentis.  </l>
+            <l n="153">Continuo ruptis per omnia regna sepulcris  </l>
+            <l n="154">Omnis humus latis effundit hiatibus ossa  </l>
+            <l n="155"><sic>Yiuentisque</sic> patens populos eructat harena.  </l>
+            <l n="156">Haerent membra conus, nectuntur ossa medullis  </l>
+            <l n="157">Consertiquo regunt spirantia corpora nerui'  </l>
+            <l n="158">Et simul infusae mouentur sanguine uenae,  </l>
+            <l n="159">Dimissaeque cauis animae redduntur apertis,  </l>
+            <l n="160">Organa quaeque sua repetunt surgentia cuncta.  </l>
+            <l n="161">(Pro miranda fides) hinc omnis pullulat aetas,  </l>
+            <l n="162">Pullulat antiqua mortuorum puluere turba.  </l>
+            <l n="163">Matres adque uiri repetita luce resurgunt, </l>
+
+<note type="footnote"> . 141 protenus <hi rend="italic">W</hi> innumeris c. i. ministris <hi rend="italic">DTv</hi> 142 dominum <lb/>
+            DTWv maiestatem <hi rend="italic">W,</hi> maicstate sua <hi rend="italic">DTv</hi> 143 latae <hi rend="italic">W,</hi> <lb/>
+            laete <hi rend="italic">T1</hi> discendunt acmina <hi rend="italic">W</hi> turbis <hi rend="italic">W,</hi> torris <hi rend="italic">T,</hi> terris <hi rend="italic">Dv</hi> <lb/>
+            144 nuntii <hi rend="italic">çorr. in</hi> nutu <hi rend="italic">W</hi> est om. <hi rend="italic">TW</hi> 145 praecipUae <lb/>
+            <hi rend="italic">Aldh.,</hi> precibus et <hi rend="italic">DWTv</hi> uirtutis sp. omnis <hi rend="italic">DTWv</hi> 146 igneos <lb/>
+            <hi rend="italic">D</hi> uigor est] uigores <hi rend="italic">W</hi> nubilantia <hi rend="italic">DT,</hi> innutilantia Wx, <lb/>
+            et nobillima <hi rend="italic">Aldh</hi>. 147 micat; migrat <hi rend="italic">Aldh</hi>. totus <hi rend="italic">DTW,</hi> <lb/>
+            tellus v, in totum <hi rend="italic">Aldh</hi>. intonat aether <hi rend="italic">Aldh.,</hi> uniuersa remugit <lb/>
+            <hi rend="italic">DTWv</hi> 148 <hi rend="italic">exp. W</hi> 149 iussa <hi rend="italic">DT,</hi> iusta <hi rend="italic">Wv</hi> debebit <lb/>
+            <hi rend="italic">TW,</hi> iubebit <hi rend="italic">Dv</hi> 151 subitae v uirtutes <hi rend="italic">D</hi> 152 hinc <hi rend="italic">TW,</hi> <lb/>
+            hic <hi rend="italic">Dv</hi> potenti <hi rend="italic">Aldh</hi>. 153 rupti <hi rend="italic">T</hi> sepulchris <hi rend="italic">DW</hi> 154 et <lb/>
+            fundit <hi rend="italic">W</hi> 155 uiuentesque <hi rend="italic">Wv</hi> patens <hi rend="italic">DTW,</hi> parens t; <lb/>
+            eruetat <hi rend="italic">WI,</hi> eruptuat <hi rend="italic">T</hi> arena v 159 canes <hi rend="italic">D'</hi> 160 quaeque <lb/>
+            <hi rend="italic">Aldh.,</hi> quae <hi rend="italic">T,</hi> que <hi rend="italic">DWv</hi> cunctae <hi rend="italic">DTW,</hi> quaeque v <lb/>
+            161 fides] quies <hi rend="italic">Aldh</hi>. hic <hi rend="italic">T</hi> 162 pullulant <hi rend="italic">T'</hi> </note> <lb/>
+             
+<pb n="315"/>
+            <l n="164">Magnanimi iuuenes pueri innuptaeque puellae  </l>
+            <l n="165">Defunctique senes animis uiuentibus adstant  </l>
+            <l n="166">Infantumque gemens resonat uagitibus orbis.  </l>
+            <l n="167">Con uariae gentes ueniunt de sedibus imis,.,:  </l>
+            <l n="168">Eoumque manus et quas uidet ultima tellus,  </l>
+            <l n="169">Quae colunt medias deuexo in climate zonas  </l>
+            <l n="170"><sic>Eifeasque</sic> tenent pruinosi sideris arces:  </l>
+            <l n="171">Omnis adest pauidus finis cuiusque colonus,  </l>
+            <l n="172"><choice><sic>Eusticus</sic><corr>Rusticus</corr></choice> et miles, posito diademate reges,  </l>
+            <l n="173">Pauperi permixtus aequali in agmine diues.  </l>
+            <l n="174">Altus ubique tremor, precibus nunc ingemit orbis  </l>
+            <l n="175"><sic>Tendentesque</sic> manus populi clamore mirantur.  </l>
+            <l n="176">Ipse sedens Dominus eminenti lumine clarus  </l>
+            <l n="177">Et praepotens cunctis micat in uirtutibus ignis  </l>
+            <l n="178">Excelsoque throno caelesti sede coruscat  </l>
+            <l n="179">Martyribus septus, numero candente uirorum  </l>
+            <l n="180">Beatisque suis comitatus uatibus extat,  </l>
+            <l n="181">Clara quibus niueis effulgent tempora <choice><sic>taeñiis</sic><corr>taeniis</corr></choice>.  </l>
+            <l n="182">Iamque sacerdotes nitidis in uestibus adsunt ' ~  </l>
+            <l n="183">Gestantes rutilas praemia uitae <choice><sic>coronas_</sic><corr>coronas</corr></choice>  </l>
+            <l n="184">Submissisque omnes genibusque reflexis adorant:  </l>
+            <l n="185">Solus agios sanctusque Deus uox omnibus una est.  </l>
+            <l n="186">Hinc Dominus geminam iubebit sistere plebem: </l>
+
+<note type="footnote"> 164 innuptaeque W1, nuptaeque <hi rend="italic">DTWv</hi> 165 astans <hi rend="italic">T</hi> <lb/>
+            166 infantumque] infaustamque <hi rend="italic">Aldh</hi>. 167 con uariae <hi rend="italic">scripsi,</hi> conuariae <lb/>
+            <hi rend="italic">DTW,</hi> cum uariae' <hi rend="italic">v,</hi> tunc uariae <hi rend="italic">Aldh.; cf. p. 306, u. 15</hi> <lb/>
+            168 eoque <hi rend="italic">DWl</hi> uidet] nil det <hi rend="italic">D</hi> 169 media <hi rend="italic">T</hi> clinate onas' <hi rend="italic">W</hi> <lb/>
+            170 tenens <hi rend="italic">DW</hi> pruinosis <hi rend="italic">DT</hi> 171 omnes <hi rend="italic">D</hi> colonis <hi rend="italic">DT</hi> <lb/>
+            172 regis <hi rend="italic">W</hi> 174 nunc] nec <hi rend="italic">W</hi> 175 mamanus <hi rend="italic">W</hi> clamare <hi rend="italic">v</hi> <lb/>
+            mirantur] morantur <hi rend="italic">Aldh</hi>. 176 sedens <hi rend="italic">DW,</hi> se <hi rend="italic">Tv</hi> dum e. nnmine <lb/>
+            <hi rend="italic">T</hi> 177 cunctos <hi rend="italic">DT</hi> micaut <hi rend="italic">T'</hi> in <hi rend="italic">exp. W</hi> . 178 caelestis <lb/>
+            <hi rend="italic">TW*</hi> corruscat <hi rend="italic">D</hi> • 179 <hi rend="italic">om. W</hi> 180 comitatus <hi rend="italic">TW,</hi> <lb/>
+            comitatibus <hi rend="italic">D,</hi> comitantibus <hi rend="italic">v</hi> 181 tempora taeniis <hi rend="italic">Aldh.,</hi> tempera <lb/>
+            taedis <hi rend="italic">W,</hi> temperata eis <hi rend="italic">DT</hi> 182 niditis <hi rend="italic">D</hi> 183 rutulas <hi rend="italic">W,</hi> <lb/>
+            rutilans <hi rend="italic">T,</hi> rutilant <hi rend="italic">Aldh</hi>. praemia] proeliantis <hi rend="italic">fort.;</hi> premialia <lb/>
+            uincla coronis <hi rend="italic">Aldh</hi>. , 184 submissisque <hi rend="italic">DW,</hi> summissique <hi rend="italic">Tv</hi> <lb/>
+            omnes <hi rend="italic">TW,</hi> omnebus <hi rend="italic">D,</hi> omnibus <hi rend="italic">v</hi> gentibusquae <hi rend="italic">W,</hi> gentibus D <lb/>
+            replexis <hi rend="italic">D,</hi> relixifl <hi rend="italic">T</hi> 185 agius <hi rend="italic">TW</hi> deus <hi rend="italic">om. W</hi> est] <lb/>
+            sit <hi rend="italic">T</hi> 186 hic <hi rend="italic">W</hi> dum <hi rend="italic">T W</hi> </note> <lb/>
+             
+<pb n="316"/>
+            <l n="187">Imperat et <choice><sic>iostoe</sic><corr>iustos</corr></choice> numero <choice><sic>discemi</sic><corr>discerni</corr></choice> <choice><sic>maloram</sic><corr>malorum</corr></choice>  </l>
+            <l n="188"><choice><sic>Iudutosque</sic><corr>Indutosque</corr></choice> iubet deuicta morte <choice><sic>uigoram</sic><corr>uigorem</corr></choice>  </l>
+            <l n="189">Semper inexstinctam <choice n="0.38"><sic n="1302">habent</sic><corr n="2051">habere</corr></choice> luminis <choice><sic>aaram</sic><corr>auram</corr></choice>,  </l>
+            <l n="190">Ire per antiqua semper <choice><sic>florontia</sic><corr>florentia</corr></choice> regna,  </l>
+            <l n="191">Ditia per nemora, semper amoena uireta,  </l>
+            <l n="192">Degere <choice><sic>perpetaam</sic><corr>perpetuam</corr></choice> praeclaro in corpore <choice><sic>nitam</sic><corr>uitam</corr></choice>.  </l>
+
+          <l n="193"><milestone unit="para"/>Est <choice n="0.10"><sic n="153">locos</sic><corr n="1352">locus</corr></choice> <choice><sic>Aeoliia</sic><corr>Aeoliis</corr></choice> Domino <choice><sic>dflectos</sic><corr>dilectus</corr></choice> in oris,  </l>
+            <l n="194"><sic>Lox</sic> ubi clara nitet spiratque <choice><sic>salobrior</sic><corr>salubrior</corr></choice> aura  </l>
+            <l n="195">Aeternaque dies adque <choice><sic>inmntabQe</sic><corr>inmutabile</corr></choice> tempus  </l>
+            <l n="196">Et secreta Deo regio ditissima campis  </l>
+            <l n="197">Beataque nimis sereno in cardine sedes,  </l>
+            <l n="198">Semper aer <choice n="0.16"><sic n="51">laetos</sic><corr n="266">laetus</corr></choice> semperque in <choice><sic>loce</sic><corr>luce</corr></choice> futurus,  </l>
+            <l n="199">Lenis et adspirans <choice><sic>nitalia</sic><corr>uitalia</corr></choice> flamina uentus.  </l>
+            <l n="200">Omnifero fert aequa solo <choice><sic>praedioite</sic><corr>praediuite</corr></choice> <choice><sic>tellos</sic><corr>tellus</corr></choice>:  </l>
+            <l n="201">Florea libratis conflagrat <sic>porpora</sic> pratis.  </l>
+            <l n="202">Omnia <sic>praerotila</sic> miscent non <choice><sic>inoida</sic><corr>inuida</corr></choice> <choice><sic>lncem</sic><corr>lucem</corr></choice>,  </l>
+            <l n="203">Flos alium <choice n="0.16"><sic n="51">laetos</sic><corr n="266">laetus</corr></choice> <choice><sic>sno</sic><corr>suo</corr></choice> lumine uestit amictum.  </l>
+            <l n="204">Hinc rosea niueo <choice><sic>oariantor</sic><corr>uariantur</corr></choice> semine <choice n="0.00"><sic n="1">rora</sic><corr n="257">rura</corr></choice>,  </l>
+            <l n="205">Et roseis <sic>nioea</sic> <sic>crispantor</sic> floribus <choice><sic>aroa</sic><corr>arua</corr></choice>.  </l>
+            <l n="206">Nescias illa <choice><sic>quibos</sic><corr>quibus</corr></choice> <sic>soaoescant</sic> <choice><sic>polchrios</sic><corr>pulchrius</corr></choice> <choice><sic>aroa</sic><corr>arua</corr></choice>  </l>
+            <l n="207">Aut <choice><sic>quibos</sic><corr>quibus</corr></choice> <choice><sic>aetberia</sic><corr>aetheria</corr></choice> spiret <choice><sic>felicins</sic><corr>felicius</corr></choice> aura, </l>
+
+<note type="footnote"> 189 ineitinctas v habitare <hi rend="italic">fort</hi>. auras Dv, oram malim <lb/>
+            191 nirecta <hi rend="italic">D,</hi> directa <hi rend="italic">TW</hi> 192 degenere <hi rend="italic">D</hi> corpore <hi rend="italic">T sed</hi> cor in <lb/>
+            ras. 193 aeolis <hi rend="italic">DT1,</hi> aeois T* 194 nitet om. <hi rend="italic">Dv</hi> 195 aeternamque <lb/>
+            <hi rend="italic">D</hi> atq. <hi rend="italic">ex</hi>. ad <hi rend="italic">T</hi> 196 regio ditissima <hi rend="italic">W</hi> (it s. I.), <lb/>
+            regi ditissima <hi rend="italic">T,</hi> rigidissima <hi rend="italic">D</hi> 197 nimis] campis <hi rend="italic">W</hi> 198 aer] <lb/>
+            her <hi rend="italic">corr. in</hi> erit <hi rend="italic">W m. 2</hi> 199 laenis <hi rend="italic">T</hi> adspirans <hi rend="italic">DW,</hi> asperans <lb/>
+            <hi rend="italic">T,</hi> aspirant v flammina <hi rend="italic">DWl</hi> aentis <hi rend="italic">DTWv</hi> aspirans <lb/>
+            oitali flamine nentne Aldh. 200 omnifero fert <hi rend="italic">scripsi,</hi> omnia fert <lb/>
+            <hi rend="italic">DTWv,</hi> omnifer <hi rend="italic">Aldh</hi>. aeque <hi rend="italic">Aldh</hi>. prodinite <hi rend="italic">W,</hi> pronidite D <lb/>
+            tellns om. Aldh. 201 libatis <hi rend="italic">W,</hi> nibratis Aldh. pnrpora <hi rend="italic">W</hi> <lb/>
+            praetis <hi rend="italic">T</hi> 202 praeratilam <hi rend="italic">T,</hi> praesntilant <hi rend="italic">W</hi> 203 sno lumine] <lb/>
+            colnmine <hi rend="italic">W</hi> 204 semina <hi rend="italic">DW</hi> 205 crispantar <hi rend="italic">W,</hi> crispatar <hi rend="italic">DTx</hi> <lb/>
+            arna <hi rend="italic">W,</hi> aura <hi rend="italic">DTfJ</hi> 206 nescias <hi rend="italic">W,</hi> nesciat <hi rend="italic">T,</hi> nescia <hi rend="italic">Dv</hi> Aldh. <lb/>
+            snaaiscant <hi rend="italic">D,</hi> saaaescat <hi rend="italic">Aldh</hi>. palcribus <hi rend="italic">T,</hi> pulchrior <hi rend="italic">AldL</hi> araa <lb/>
+            <hi rend="italic">D,</hi> aura <hi rend="italic">TWx,</hi> alga <hi rend="italic">Aldh</hi>. 207 <hi rend="italic">hunc</hi> uersum addidi <hi rend="italic">ex TW,<lb/>
+             om. Dv</hi> aetherias <hi rend="italic">W</hi> ■ spire <hi rend="italic">T,</hi> spira et <hi rend="italic">W</hi> </note> <lb/>
+             
+<pb n="317"/>
+            <l n="208">Quia melior specie uel quis praecellat honore.  </l>
+            <l n="209"><choice><sic>_Numquam</sic><corr>Numquam</corr></choice> florigenis similes <choice><sic>nascnntar</sic><corr>nascuntur</corr></choice> in hortis  </l>
+            <l n="210">Lilia nec nostris floruerunt talia campis,  </l>
+            <l n="211">Nec sic nota <choice><sic>rabet</sic><corr>rubet</corr></choice> mox aut rosa panditur alba,  </l>
+            <l n="212">Purpura nec Tyrio sic est incocta <choice><sic>mbore</sic><corr>rubore</corr></choice>.  </l>
+            <l n="213">Gemma coloratis fulget speciosa <choice><sic>lapiUis</sic><corr>lapillis</corr></choice>,  </l>
+            <l n="214">Prasinus inde nitet, illinc carbunculus ardet,  </l>
+            <l n="215">Smaragdusque lapis micantia lumina fundit.  </l>
+            <l n="216">Hic et odoriferis nascuntur cinnama uirgis  </l>
+            <l n="217">Et uiridi laetum folio confragrat amomum.  </l>
+            <l n="218">Hic iacet ingenitum radiati luminis aurum,  </l>
+            <l n="219">Et nemora alta tenens florenti uertice caelum,  </l>
+            <l n="220">Virentisque grauant uberrima germina ramos.  </l>
+            <l n="221">Nulla suos similes porrexit India lucos,  </l>
+            <l n="222">Non ita densa leuat uiridis cacumina pinus,  </l>
+            <l n="223">Nec sic alta comas crispat uibrata <choice><sic>cnpressus</sic><corr>cupressus</corr></choice>,  </l>
+            <l n="224">Nec <sic>uemus</sic> melius floret cum tempore ramus.  </l>
+            <l n="225">225 Hic aliter celsae florent in uertice nigrae  </l>
+            <l n="226">Aeternumque uirent solae sine grandine siluae.  </l>
+            <l n="227">Nulla cadunt folia, nullus flos tempore <sic>deNt</sic>:  </l>
+            <l n="228">Robore conpacta uirent t cacumina, purpurat arbor.  </l>
+            <l n="229">Sed puto flos ille rosa est, rubor aequus in illo,  </l>
+            <l n="230">Sic speciem talem foliis adspirat odorum. </l>
+
+<note type="footnote"> 206 melioris <hi rend="italic">W*</hi> quia <hi rend="italic">W,</hi> plus <hi rend="italic">DTfJ</hi> 209 florigeriB <hi rend="italic">Aldh</hi>. <lb/>
+            similis <hi rend="italic">D</hi> hortis] oris <hi rend="italic">T</hi> 211 sic] si <hi rend="italic">W</hi> aut <hi rend="italic">scripsi,</hi> ut <hi rend="italic">DTWv</hi> <lb/>
+            roeea <hi rend="italic">T alba Aldh.,</hi> arba <hi rend="italic">T1,</hi> arua <hi rend="italic">DТ2Wv</hi> 212 purporea <hi rend="italic">W,</hi> <lb/>
+            purpurea <hi rend="italic">DT</hi> tyrios <hi rend="italic">T,</hi> tareos <hi rend="italic">W</hi> 213 coloratus <hi rend="italic">T1</hi> 214 illino <lb/>
+            <hi rend="italic">TWs,</hi> illine <hi rend="italic">W1,</hi> illic <hi rend="italic">Dv</hi> 215 zmaragdusque <hi rend="italic">T</hi> 216 cinnoma c <lb/>
+            217 laeto <hi rend="italic">Dv</hi> confraglat <hi rend="italic">T,</hi> conflagrat <hi rend="italic">DWx</hi> 219 tenent c <lb/>
+            florentia <hi rend="italic">Dv post uersum 219 praecipit T 259</hi> atque — <hi rend="italic">274</hi> tremescunt, <lb/>
+            suo <hi rend="italic">iterum loco hos uersus exhibens</hi> 220 uirentesque v <lb/>
+            grabant <hi rend="italic">T</hi> ramo <hi rend="italic">TW</hi> 221 lucos] colus <hi rend="italic">DTW</hi> 223 <hi rend="italic">verI. <lb/>
+            223 et 224 inuerso ordine exh. v</hi> uiprata <hi rend="italic">Wl</hi> cypressus <hi rend="italic">T</hi> <lb/>
+            224 uemo <hi rend="italic">fort</hi>. 225 hiic <hi rend="italic">W</hi> aliter celsae <hi rend="italic">DTW,</hi> abietes closaco <lb/>
+            226 solae sine] solens in <hi rend="italic">T</hi> glandine <hi rend="italic">fort</hi>. 227 nullusque <lb/>
+            v defit <hi rend="italic">TW,</hi> desit <hi rend="italic">Dv</hi> 228 rubore <hi rend="italic">Dv</hi> cacumine <hi rend="italic">DW</hi> <lb/>
+            purporat <hi rend="italic">W,</hi> purpura <hi rend="italic">Dv; fort</hi>. robore conpacto uiret et purpurat <lb/>
+            229 illae <hi rend="italic">T</hi> robor <hi rend="italic">TW</hi> ecus <hi rend="italic">T</hi> 230 odorum <hi rend="italic">W,</hi> odorem <hi rend="italic">DTv</hi> </note> 
+<pb n="318"/>
+            <l n="231">Stat cum flore nonis arbor pulcherrima pomis  </l>
+            <l n="232">Vitalemque frugem felicia robora densant.  </l>
+            <l n="233">Mella uiridatis confragrant pinguia ramis,  </l>
+            <l n="234">Lac etiam plenis manat potabile riuis.  </l>
+            <l n="235">Vitam spirat ibi quidquid pia terra uirescit,  </l>
+            <l n="236">Beat usque simul quidquid de germine floret,  </l>
+            <l n="237">Adque solum pulchrae redolet medicabile cretae.  </l>
+            <l n="238">Fons illic placido <choice><sic>perfnndit</sic><corr>perfundit</corr></choice> agmine campos,  </l>
+            <l n="239">Quattnor inde rigant partitam flumina terram  </l>
+            <l n="240"><sic>Yer</sic> puto semper agit uestitus floribus aether.  </l>
+            <l n="241">Non frigus uariat hiberni sideris auras,  </l>
+            <l n="242">Nec, radiata micat <choice><sic>preasis</sic><corr>pressis</corr></choice> caloribus aestas,   </l>
+            <l n="243">Caelum <choice n="0.87"><sic n="586">luce</sic><corr n="81">luco</corr></choice> sua serenas temperat auras : </l>
+            <l n="244">Et <choice><sic>reflcit</sic><corr>reficit</corr></choice> fetam meliore flamine terram.  </l>
+            <l n="245">Nox ibi nulla, suas defendunt astra tenebras, </l>
+            
+
+          <l n="246"><milestone unit="para"/>Iraeque insidiaeque absunt et dira <choice><sic>cnpido</sic><corr>cupido</corr></choice>,  </l>
+            <l n="247">Exclususque <choice><sic>pietus</sic><corr>metus</corr></choice> pulsaeque a limine curae.  </l>
+            <l n="248">Hinc malus extremas relegatur <choice n="0.96"><sic n="122">exul</sic><corr n="4">exui</corr></choice> in oras,  </l>
+            <l n="249">Beatosque labor uetitus contingere fines.   </l>
+            <l n="250">Hic prisca fides electa in sede quiescit.  </l>
+            <l n="251">Iustitia gaudens aeterno in foedere uiuit  </l>
+            <l n="252">Et secura salus placidis laetatur in aruis  </l>
+            <l n="253">Semper uictura semperque in <choice><sic>luoe</sic><corr>luce</corr></choice> futura.  </l>
+            <l n="254">Hic quicumque pius aequique bonique colonus, </l>
+
+<note type="footnote"> 231 nouis<hi rend="italic">ex</hi> non his <hi rend="italic">W m. 2</hi> 232 felicita v destant <hi rend="italic">T</hi> <lb/>
+            233 mella] metella c uiridatis <hi rend="italic">scripsi,</hi> uiridantis <hi rend="italic">DTWv</hi> confragant <lb/>
+            <hi rend="italic">T,</hi> conflagrant <hi rend="italic">DWv</hi> pingua <hi rend="italic">D</hi> 234 lac) iacet <hi rend="italic">TW</hi> <lb/>
+            plania <hi rend="italic">W,</hi> ramis <hi rend="italic">T</hi> potauile <hi rend="italic">T</hi> 236 beat usque <hi rend="italic">scripsi,</hi>. beatosque <lb/>
+            DTWv, . 237 pulcher <hi rend="italic">W</hi> redolent <hi rend="italic">Dv</hi> 238 placido <hi rend="italic">scripsi,</hi> <lb/>
+            placidus <hi rend="italic">DTWv</hi> agqunQ <hi rend="italic">TW,</hi> gramine <hi rend="italic">Dv</hi> 239 partita t <lb/>
+            terras <hi rend="italic">W</hi> 241 Jiibernia <hi rend="italic">D,</hi> hisernis <hi rend="italic">T</hi> sidoris <hi rend="italic">T</hi> 242 aetas <hi rend="italic">Dv</hi> <lb/>
+            243 serena <hi rend="italic">DTW,</hi> serenat et <hi rend="italic">fort</hi>. auram <hi rend="italic">T,</hi> aura <hi rend="italic">W</hi> 244 refecit <lb/>
+            <hi rend="italic">W1</hi> fetam] factam <hi rend="italic">W</hi> ipeliorem <hi rend="italic">DTv</hi> lfamina <hi rend="italic">DWIT</hi> <lb/>
+            245 defendet <hi rend="italic">TW,</hi> defendendet <hi rend="italic">D,</hi> defundunt <hi rend="italic">v,</hi> defendit <hi rend="italic">Aldh</hi>. astra] <lb/>
+            tetra Aldh. 247 limine <hi rend="italic">Aldh.,</hi> limitae <hi rend="italic">W,</hi> limite <hi rend="italic">DT</hi> cura <hi rend="italic">T</hi> <lb/>
+            248 malis <hi rend="italic">W</hi> extremis <hi rend="italic">DTW1</hi> religatur <hi rend="italic">DT</hi> horas <hi rend="italic">W</hi> <lb/>
+            249 beatusque <hi rend="italic">DTW1</hi> uetitus <hi rend="italic">scripsi,</hi> uetitusq. <hi rend="italic">DTW*,</hi> ietitusq. <lb/>
+            <hi rend="italic">W1,</hi> ueritusque v 252 placitis <hi rend="italic">DTW'</hi> auris <hi rend="italic">TW sed</hi> au <hi rend="italic">T</hi> <lb/>
+            in ras. 258 semperque] semper a 254 aequique <hi rend="italic">Fabric.,</hi> et <lb/>
+            qui <hi rend="italic">DTW; cf. p. 290, uers. 31</hi> </note> <lb/>
+             
+<pb n="319"/>
+            <l n="255">Quique Deum metuit innoxia mente tonantem  </l>
+            <l n="256">Adque suos coluit sacra pietate parentes   </l>
+            <l n="257">Et coluit sanctam semper sine crimine uitam,  </l>
+            <l n="258">Aut inopem quotiens opibus solatus amicis  </l>
+            <l n="259">Adque laborantes nimium subuenit egenos,  </l>
+             <l n="260">Pauperis adiutor, solitus saluare pupillos,  </l>
+            <l n="261">Eruit et nocitos, subuenit crimine pressis,  </l>
+            <l n="262">Hospitibus carae tribuit sua pignera mensae,  </l>
+            <l n="263">Omnia diuinis gessit sua munera iussis,  </l>
+            <l n="264">Non aliquem nocuit, non aliena cupiuit:  </l>
+            <l n="265">Illi exultantes diuinis laudibus omnes  </l>
+            <l n="266">Orantesque simul referunt ad sidera uoces,  </l>
+            <l n="267"><sic>Psallentes</sic> Domino celebrant per gaudia grates  </l>
+            <l n="268">Beatamque <choice n="0.01"><sic n="10">niam</sic><corr n="956">uiam</corr></choice> <choice><sic>nnntiis</sic><corr>nuntiis</corr></choice> comitantibus ibunt.  </l>
+
+          <l n="269"><milestone unit="para" rend="script"/>Postquam haec Dominus felicia dona peregit  </l>
+            <l n="270">Et iustos pariter aeterna in regna remisit:  </l>
+            <l n="271">En miseranda <choice><sic>nenit</sic><corr>uenit</corr></choice> lugens sua crimina turba:  </l>
+            <l n="272">Fit gemitus, maerent lacrimis ardentibus omnes  </l>
+            <l n="273">Testanturque sua crebris ululatibus acta,  </l>
+            <l n="274">Flammea pro meritis instantia tela tremiscunt.  </l>
+            <l n="275">Angeli corripiunt iam iam prohibentque precari  </l>
+            <l n="276">Et prohibent seras paenitentiae fundere uoces, </l>
+
+<note type="footnote" rend="script"> 255 d∗m <hi rend="italic">T,</hi> dum <hi rend="italic">DWx</hi> conantem <hi rend="italic">T</hi> 257 sancta <hi rend="italic">DT</hi> <lb/>
+            nita <hi rend="italic">T</hi> 258 aut... amicis <hi rend="italic">aup</hi>. sine crimine u. <hi rend="italic">257 acr. W m. 2</hi> <lb/>
+            259 egeuis <hi rend="italic">TW1,</hi> aegenis <hi rend="italic">D</hi> 260 solitis <hi rend="italic">T,</hi> solitu Dv, solidusae <lb/>
+            Aldh. aaluare W2, Boluere DTW1v, fouere <hi rend="italic">Aldh</hi>. 261 eripuit <lb/>
+            et inocitos <hi rend="italic">W,</hi> erait innocuos <hi rend="italic">Fabricius</hi> 262 hostibus <hi rend="italic">D</hi> <lb/>
+            care <hi rend="italic">T,</hi> grate <hi rend="italic">fort</hi>. pignora <hi rend="italic">Dv,</hi> pignera se <hi rend="italic">T</hi> 263 <hi rend="italic">om. TW</hi> <lb/>
+            iussit <hi rend="italic">D</hi> 265 illic <hi rend="italic">T altero loco: cf. u. 219</hi> 267 psallente <lb/>
+            <hi rend="italic">DT</hi> dum <hi rend="italic">TW</hi> per om. <hi rend="italic">T1</hi> gratis <hi rend="italic">W</hi> ( : 269 haec 1 <lb/>
+            postquam v dum <hi rend="italic">T</hi> 271 en <hi rend="italic">Aldh.,</hi> et <hi rend="italic">DTWv</hi> '' lugent <lb/>
+            <hi rend="italic">DTW</hi> turbae <hi rend="italic">W</hi> 272 fit <hi rend="italic">scripsi,</hi> id <hi rend="italic">TW,</hi> hic Dv maerenti <lb/>
+            <hi rend="italic">DT</hi> ardentibus <hi rend="italic">Aldh.,</hi> arcentibus <hi rend="italic">T,</hi> argentibus Wt augentibns <lb/>
+            De 273 testaturque <hi rend="italic">D</hi> ululantibus <hi rend="italic">T</hi> 274 flammae <lb/>
+            <hi rend="italic">TW</hi> tremescunt <hi rend="italic">DT</hi> 275 iam iam Aldh., iam <hi rend="italic">TW,</hi> iam iamque <lb/>
+            Ds perhibentque <hi rend="italic">T</hi> 276 prohibente <hi rend="italic">W</hi> paenitentes <lb/>
+            <hi rend="italic">fort.,</hi> penitendo <hi rend="italic">Aldh.,</hi> clamando <hi rend="italic">Fabricius</hi> </note> <lb/>
+             
+<pb n="320"/>
+            <l n="277">Iamque precum <choice n="0.07"><sic n="14">nenia</sic><corr n="165">uenia</corr></choice> flamma ueniente negatur.  </l>
+            <l n="278">O miseri, quotiens uobis diuina potestas  </l>
+            <l n="279">Innotuit, quotiens maiestas cognita ueri ?  </l>
+            <l n="280">Audistis sonitus, <choice><sic>nidistis</sic><corr>uidistis</corr></choice> fulgura caeli,  </l>
+            <l n="281">Assidue pluuias uentorum et grandinis iras  </l>
+            <l n="282">Experti, quotiens noctesque diesque serenos:  </l>
+            <l n="283">Tempora fecunda dabant Dei munera <choice n="0.60"><sic n="4825">nobis</sic><corr n="3215">uobis</corr></choice>,  </l>
+            <l n="284"><sic>Yer</sic> abunde rosas, <choice><sic>frngibus</sic><corr>frugibus</corr></choice> nec defuit aestas,  </l>
+            <l n="285">Autumnus uaria praebebat mitia poma,  </l>
+            <l n="286">Semper hiems laetas glacialis fregit <choice><sic>olinas</sic><corr>oliuas</corr></choice>.  </l>
+            <l n="287">Cuncta Deus tribuit, bonitas nec defuit ulla,  </l>
+            <l n="288">Nec per tanta Deum genus omne sciuit <choice><sic>humanmn</sic><corr>humanum</corr></choice>.  </l>
+            <l n="289">Terra Deum tremuit, pontus Dei nutu pependit  </l>
+            <l n="290">Et <choice><sic>flunins</sic><corr>fluuius</corr></choice> siccis trepidus refluxit harenis,  </l>
+            <l n="291">Et genitura Deum per omnia laeta fatetur.  </l>
+
+          <l n="292"><milestone unit="para" rend="script"/>Vos tamen hunc Dominum caeli terraeque negastis,  </l>
+            <l n="293">Et iustos <choice><sic>potins</sic><corr>potius</corr></choice> crudeli caede necastis  </l>
+            <l n="294">Praeconesque Dei plerique saepe fugastis.  </l>
+            <l n="295">Veritas in <choice n="0.60"><sic n="4825">nobis</sic><corr n="3215">uobis</corr></choice> pro crimine semper inhaesit.  </l>
+            <l n="296">Et ideo <choice><sic>frnctum</sic><corr>fructum</corr></choice> capietis sementis iniqui:  </l>
+            <l n="297">Non scitis ecce diem, quem uos ridere soletis.  </l>
+            <l n="298">Ibitis in tenebras ignis et sulphuris altas  </l>
+            <l n="299">Ardendo saeuas passuri doloribus iras.  </l>
+            <l n="300">Hos aeternae iubet Dominus discedere poenae,  </l>
+            <l n="301">Ire sub ardores semper sine fine gehennae,  </l>
+            <l n="302">Vrgeri molem per stagna torrentia flammae.  </l>
+            <l n="303">In flammas conuerti iubet elementa minantis </l>
+
+<note type="footnote" rend="script"> <hi rend="italic">277 neniat T neoator Wl 279 uiri T</hi> 280 fulgorae <lb/>
+            <hi rend="italic">W',</hi> fulgora <hi rend="italic">DTW1</hi> 281 irans <hi rend="italic">W1</hi> 283 fecunda dabant <hi rend="italic">scripsi,</hi> <lb/>
+            fecnndabant <hi rend="italic">DTWv</hi> nobia Aldh., donis <hi rend="italic">DTWv</hi> 284 abundet <hi rend="italic">T</hi> <lb/>
+            285 auttumnus <hi rend="italic">W</hi> praebabat Wl 286 hiemps <hi rend="italic">D</hi> <lb/>
+            fregit <hi rend="italic">TW,</hi> regit <hi rend="italic">Dv</hi> olibus <hi rend="italic">D</hi> 288 dum <hi rend="italic">W1,</hi> <lb/>
+            dium <hi rend="italic">Tl</hi> 289 dum <hi rend="italic">DW</hi> perpendit <hi rend="italic">D</hi> 290 arenis v <lb/>
+            291 et] e <hi rend="italic">T</hi> dum <hi rend="italic">DWl desinit Aldhelmi fragmentum</hi> 293 om. <lb/>
+            <hi rend="italic">W</hi> negastis <hi rend="italic">T</hi> 297 ridere] redire <hi rend="italic">T</hi> 299 passuris <hi rend="italic">TW</hi> <lb/>
+            300 hoc <hi rend="italic">DT</hi> aeternae] certene <hi rend="italic">T</hi> discedere] discere <hi rend="italic">W</hi> 301 ardore <lb/>
+            <hi rend="italic">W,</hi> arbore <hi rend="italic">T</hi> 302 «rgueri <hi rend="italic">W</hi> torrenti <hi rend="italic">T</hi> 303 clementa <hi rend="italic">W</hi> </note> <lb/>
+             
+<pb n="321"/>
+            <l n="304">Adque omnem caeli descendere nubibus ignem.  </l>
+
+          <l n="305"><milestone unit="para"/>Tunc auidus rapidos excludit <choice><sic>tartaxus</sic><corr>tartarus</corr></choice> ignis,  </l>
+            <l n="306">Adque <sic>procelloeis</sic> fluctuabunt aequora flammis,  </l>
+            <l n="307">Totaque uiuentis confundet terra fauillis,  </l>
+            <l n="308">Flammeos et sulcos aer uibrabit iratus,  </l>
+            <l n="309">Adque omnibus <choice><sic>facibtis</sic><corr>facibus</corr></choice> <choice><sic>torrena</sic><corr>torrens</corr></choice> armabitur orbis,  </l>
+            <l n="310">Impetu tartareo prendent incendia mundum.  </l>
+            <l n="311">Illi praecipitem pulsi tolluntur in aestum,  </l>
+            <l n="312">Hinc fugiunt, illinc cursu referuntur acuto.  </l>
+            <l n="313">Obuia fit saeua flammae fugientibus ira,  </l>
+            <l n="314">Agnoscuntque suam iam iam de crimine poenam.  </l>
+            <l n="315">Iamque qua a nullo tellus possessa colono  </l>
+            <l n="316">Et maris extremis pressa sub fine profundo,  </l>
+            <l n="317">Qua sol emenso radio definit Olympum  </l>
+            <l n="318"><sic>Ortaque</sic> transacto conduntur sidera mundo :  </l>
+            <l n="319">Gliscit aer densis abstrusa luce tenebris,  </l>
+            <l n="320"><choice><sic>Yltima</sic><corr>Vltima</corr></choice> secretis stagna flammantia <choice n="0.33"><sic n="23">rima</sic><corr n="46">riuis</corr></choice>.  </l>
+            <l n="321">Est natura loci signatis ignea poenis,  </l>
+            <l n="322">Et palus inferni candens ardoribus ima  </l>
+            <l n="323">Intonat horrificis, fretum poenale, caminus </l>
+
+<note type="footnote"> <hi rend="italic">/</hi> <lb/>
+            304 atque <hi rend="italic">ex</hi> coq. <hi rend="italic">W,</hi> eoque <hi rend="italic">DT</hi> 305 <hi rend="italic">add. sup. 303 W m. 2</hi> <lb/>
+            anidos rapidus includit Dv tartamni v ignes <hi rend="italic">W</hi> 306 procellosas <lb/>
+            <hi rend="italic">DTv</hi> fluctuabunt <hi rend="italic">scripsi,</hi> ructuabunt W1, ructabant <hi rend="italic">T,</hi> ruc- <lb/>
+            <hi rend="italic">tabunt D W1; cf. 325</hi> aequora <hi rend="italic">BcripBi,</hi> aequorea <hi rend="italic">T,</hi> equoreas <hi rend="italic">W,</hi> aequore <lb/>
+            <hi rend="italic">Dv</hi> fiamma <hi rend="italic">T,</hi> flammas <hi rend="italic">Dv</hi> 807 motaque <hi rend="italic">malim</hi> uiuentes <lb/>
+            <hi rend="italic">v</hi> confundit <hi rend="italic">W</hi> flauillis W 308 flammeos <hi rend="italic">scripsi,</hi> flammeus <lb/>
+            <hi rend="italic">DTWv</hi> uibrauit <hi rend="italic">DTW</hi> iratus <hi rend="italic">scripsi,</hi> iratos <hi rend="italic">DTWv</hi> <lb/>
+            309 armauitur <hi rend="italic">T,</hi> amabitur <hi rend="italic">D</hi> 310 prendent <hi rend="italic">TW,</hi> frendent <hi rend="italic">Dv</hi> <lb/>
+            nnmdum <hi rend="italic">scrtpsi,</hi> mundo <hi rend="italic">DTWv</hi> 311 pulsi] fulsit <hi rend="italic">T</hi> 312 hic <lb/>
+            <hi rend="italic">TW</hi> illic <hi rend="italic">DTW</hi> 313 saeua <hi rend="italic">DW,</hi> saeuae <hi rend="italic">Dv</hi> flamma <hi rend="italic">T</hi> <lb/>
+            314 sua c iam iam <hi rend="italic">DW sed in W alterum</hi> iam <hi rend="italic">s. I.,</hi> iam <hi rend="italic">T,</hi> <lb/>
+            iam tum c 315 qua a <hi rend="italic">scripsi,</hi> uaga <hi rend="italic">DTW,</hi> uago c 316 p. sub] <lb/>
+            pressas ubi <hi rend="italic">T</hi> 817 quam <hi rend="italic">W</hi> radios v definito <hi rend="italic">W</hi> <lb/>
+            olympum <hi rend="italic">scripai,</hi> olympo <hi rend="italic">DTWv</hi> 318 conduntur <hi rend="italic">TW,</hi> tolluntur <hi rend="italic">Dv</hi> <lb/>
+            319 gliscit <hi rend="italic">om. W,</hi> clypsit <hi rend="italic">T</hi> 320 stagnant <hi rend="italic">Fabricius</hi> 321 latura <hi rend="italic">T</hi> <lb/>
+            locis <hi rend="italic">DT</hi> signati <hi rend="italic">T,</hi> ignati <hi rend="italic">D</hi> 322 infernis <hi rend="italic">W</hi> scandens <lb/>
+            <hi rend="italic">Dv</hi> arboribus <hi rend="italic">T</hi> '323 indonat <hi rend="italic">Wl</hi> fretum <hi rend="italic">scripsi,</hi> fertur <lb/>
+            <hi rend="italic">DTWv</hi> caminus <hi rend="italic">scripsi,</hi> caminis <hi rend="italic">DTWv</hi> </note>
+
+<note type="footnote"> m A </note>
+
+<note type="footnote"> 21 </note> <lb/>
+             
+<pb n="322"/>
+            <l n="324">Aestuat et rapido turbatur uertice flammans,  </l>
+            <l n="325">In tormenta ruens fluctuanti <choice><sic>gnrgite</sic><corr>gurgite</corr></choice> flumen  </l>
+            <l n="326">Torrida se cuncta caeno miscetur harena.  </l>
+            <l n="327">Huc captiua gemens mittetur turba malorum  </l>
+            <l n="328">Arsurumque (nefas) scelerati corporis agmen.  </l>
+            <l n="329">Magnus plangor ibi fletu sociante clamorem,  </l>
+            <l n="330">Et stridor rapidus, ululatus inde dolentum  </l>
+            <l n="331">Exsurget de flamma procul altusque sonoras  </l>
+            <l n="332">Ignis et ardentis gemitus consurget in auras.  </l>
+
+          <l n="333"><milestone unit="para" rend="script"/>Tunc humana mali pendet commissa propago,  </l>
+            <l n="334">Incipientque preces ad caelum tendere <choice><sic>aeras</sic><corr>seras</corr></choice>.  </l>
+            <l n="335">Adque Deum nunc nosse <choice n="0.04"><sic n="3">nolent</sic><corr n="68">uolent</corr></choice>, quem nosse nolebant.  </l>
+            <l n="336">Illic quisque suae fatebitur effera uitae  </l>
+            <l n="337">Nocentesque manus et saeuas crimine mentes  </l>
+            <l n="338">Adque infanda sui testabitur effera uitae.,  </l>
+            <l n="339">Iam primum quicumque Deum male senserat ante  </l>
+            <l n="340">Et uaga mentito coluisset n'umine saxa  </l>
+            <l n="341">Adque cruentatas signis sacrauerat aras  </l>
+            <l n="342">Et picturatas timuit sine uoce figuras  </l>
+            <l n="343">Ac falsi tenuis adorauit numinis umbras,  </l>
+            <l n="344">Et quemcumque malus seduxit protinus error,  </l>
+            <l n="345">345 Si quis adulter erat, natos quicumque necarat,  </l>
+            <l n="346">Si quocunque malo quis conscia mente uiuebat </l>
+
+<note type="footnote" rend="script"> 324 rabido <hi rend="italic">W</hi> turbatus <hi rend="italic">TW</hi> \ flammans <hi rend="italic">scripsi,</hi> flammas <hi rend="italic">DTW,</hi> <lb/>
+            flammae v 325 gurbite <hi rend="italic">W</hi> 326 arena v 327 hunc <hi rend="italic">DT</hi> mitetor <lb/>
+            <hi rend="italic">W</hi> 328 scela∗∗tti <hi rend="italic">T</hi> 329 magnis. <hi rend="italic">W</hi> clangor ibi <hi rend="italic">T,</hi> plangoribus <lb/>
+            <hi rend="italic">W</hi> fleta <hi rend="italic">TW,</hi> fetu <hi rend="italic">D,</hi> fletus <hi rend="italic">v</hi> clamorem <hi rend="italic">TW,</hi> clamore Dv <lb/>
+            330 tabiduB <hi rend="italic">TW</hi> ullulatus <hi rend="italic">D</hi> dolentium <hi rend="italic">T1</hi> 331 altnsq. <lb/>
+            <hi rend="italic">DWTatusq. T1,</hi> altusque v 332 om. <hi rend="italic">W</hi> consnrgit <hi rend="italic">DTv</hi> 333 humana <lb/>
+            <hi rend="italic">TW,</hi> imago <hi rend="italic">Dv</hi> malpondet <hi rend="italic">D</hi> promissa <hi rend="italic">DTv</hi> 334 tendere] <lb/>
+            pendere <hi rend="italic">v</hi> 335 dum <hi rend="italic">DTlWl</hi> nolunt <hi rend="italic">DW</hi> nolebant <hi rend="italic">ex</hi> <lb/>
+            nolebant <hi rend="italic">T</hi> 336 patebitur <hi rend="italic">T</hi> 337 mentes om. v ^338 inflanda <hi rend="italic">T</hi> <lb/>
+            sui <hi rend="italic">DT,</hi> suis <hi rend="italic">W, suae v</hi> 339 quicum <hi rend="italic">T</hi> dum <hi rend="italic">DT,</hi> dno <hi rend="italic">W</hi> 340 coluissent <lb/>
+            <hi rend="italic">TW</hi> nomine <hi rend="italic">W</hi> 341 signis <hi rend="italic">W,</hi> igni <hi rend="italic">DT,</hi> igne v <lb/>
+            343 tenuis <hi rend="italic">scripsi,</hi> tenue <hi rend="italic">DTW,</hi> tenues <hi rend="italic">v</hi> nominis <hi rend="italic">W</hi> umbras <lb/>
+            <hi rend="italic">TW,</hi> undas <hi rend="italic">Dv</hi> 344 quemcumque <hi rend="italic">DW,</hi> quaecumque <hi rend="italic">Tv</hi> sedunxit <lb/>
+            protenus <hi rend="italic">W</hi> 345 ad. erat] adulterat <hi rend="italic">W</hi> negarat <hi rend="italic">DW</hi> 346 constia <lb/>
+            W1 uiuebat <hi rend="italic">ex</hi> iubebat <hi rend="italic">T m. 2</hi> </note> <lb/>
+             
+<pb n="323"/>
+            <l n="347">Aut rapto grassatus erat aut fraude clientis,  </l>
+            <l n="348">Si quis humano suas maculabat sanguine palmas  </l>
+            <l n="349">Adque latebrosa miscebat morte uenena,  </l>
+            <l n="350">Tunc si quis uacuo celabat pectore furta  </l>
+            <l n="351">Aut alieni mali lucro gaudebat iniquo,  </l>
+            <l n="352">Admisit quicumque nefas quodcumque malorum.  </l>
+            <l n="353">Altus ardor eos igni torquebit amaro,  </l>
+            <l n="354">Suppliciumque dabunt uiuente funere cuncti,   </l>
+            <l n="355">Sic hominum totam maerentes f seruare turbam.  </l>
+            
+
+          <l n="356"><milestone unit="para"/>Haec adeo sancti quotiens cecinere prophetae,  </l>
+            <l n="357">Spiritu saepe Dei moniti dixere futura?  </l>
+            <l n="358">[Nemo suas (miserum) nemo eheu praebuit aures.]  </l>
+            <l n="359">Sic Deus omnipotens uoluit sua praemia nosci  </l>
+            <l n="360">Adque minas positae *** per talia legis,  </l>
+            <l n="361">Mittendo plures caelestia uerba clamantes.  </l>
+            <l n="362">Denique iussu Dei conpegit ossa prophetes  </l>
+            <l n="363">Et stupuit mota subito non sponte sepulcra,  </l>
+            <l n="364">Cineribus creta t iacuisse corpora passis,  </l>
+            <l n="365">Surgere tunc uiuos anima ueniente miratus  </l>
+            <l n="366">Et cum uoce sua ad caelum tendere palmas.  </l>
+            <l n="367">[Gratanturque Deo et uictori talia Christo.]  </l>
+            <l n="368">Illi quidem tumulos repetiere silentes  </l>
+            <l n="369">Seruandique Dei diei cessere futuro:  </l>
+            <l n="370">Paulisper iussit retineri cubilibus imis,  </l>
+            <l n="371">Donec ille dies conpleto tempore magnus </l>
+
+<note type="footnote"> 347 crassatus <hi rend="italic">D</hi> frude Wl 350 uacuo scelerabat <hi rend="italic">D,</hi> uacuo <lb/>
+            gelerabat <hi rend="italic">W,</hi> suo uos celabat <hi rend="italic">T</hi> pectora <hi rend="italic">Tv</hi> furta <hi rend="italic">scripsi,</hi> furto. <lb/>
+            <hi rend="italic">DTWv</hi> 353 eos <hi rend="italic">scripsi,</hi> eo <hi rend="italic">DTW,</hi> eum <hi rend="italic">v</hi> torquaeuita maro <hi rend="italic">T</hi> <lb/>
+            354 uiueuti funera <hi rend="italic">Dv</hi> cincti <hi rend="italic">T1</hi> 355 omnium <hi rend="italic">TW</hi> tota <hi rend="italic">D</hi> <lb/>
+            maerentis <hi rend="italic">DW,</hi> herente <hi rend="italic">T</hi> torbam <hi rend="italic">W</hi> 356 a dõ <hi rend="italic">D</hi> 358 <hi rend="italic">om. <lb/>
+             DTW, add. ex Fabricio Bal</hi>. 359 nesci <hi rend="italic">T</hi> 360 positae] plurima <lb/>
+            <hi rend="italic">add. v</hi> alia <hi rend="italic">T</hi> 362 iussum <hi rend="italic">Wl,</hi> iusso T prophetis <lb/>
+            <hi rend="italic">DT</hi> 363 non] nam <hi rend="italic">ex</hi> non ex <hi rend="italic">W m</hi>. 2, non <hi rend="italic">e<foreign xml:lang="grc">̃</foreign></hi> T' <hi rend="italic">(</hi>e<foreign xml:lang="grc">̃</foreign> <hi rend="italic">exp. m. 2)</hi> <lb/>
+            sepulchra <hi rend="italic">DW</hi> 364 iacuissent <hi rend="italic">T</hi> 365 s. tunc] surgeret uno <hi rend="italic">T</hi> <lb/>
+            367 <hi rend="italic">om. DTW, add. ex Fabricio Bal</hi>. 368 illa v tumulos <lb/>
+            <hi rend="italic">scripsi,</hi> tumdlo <hi rend="italic">DTWv</hi> repetiere <hi rend="italic">scripsi,</hi> repetire <hi rend="italic">TW,</hi> petiere Dv <lb/>
+            369 seruatique <hi rend="italic">T</hi> 370 retinere <hi rend="italic">T</hi> </note>
+
+<note type="footnote"> 21 * </note> <lb/>
+             
+<pb n="324"/>
+            <l n="372"><sic>Adaeniat</sic>. <sic>cnneti</sic> <sic>Domimun</sic> <sic>eognoscite</sic> <sic>aeram</sic>,  </l>
+            <l n="373"><sic>Qai</sic> solus animam <sic>faciatcontendere</sic> lucem  </l>
+            <l n="374">Eandemque potest in tartara <choice n="0.96"><sic n="158">tradere</sic><corr n="6">trudere</corr></choice> poenae  </l>
+            <l n="375">Et cui cuncta patet <choice><sic>nitae</sic><corr>uitae</corr></choice> <choice><sic>mortiaque</sic><corr>mortisque</corr></choice> potestas.  </l>
+            <l n="376">Posse Deo, nam <choice><sic>nelle</sic><corr>uelle</corr></choice> satis est, factumque dicendo </l>
+
+          <l n="377"><milestone unit="para"/>Ille <choice n="0.29"><sic n="668">mens</sic><corr n="1571">meus</corr></choice> <choice n="0.09"><sic n="104">solos</sic><corr n="954">solus</corr></choice> metuendus sensibus <sic n="poss">imi6</sic>.  </l>
+            <l n="378">Et quoniam leto cursus concluditur omnis,  </l>
+            <l n="379">Quicumque est hodie, secum <choice><sic>sna</sic><corr>sua</corr></choice> uita feretur.  </l>
+
+          <l n="380"><milestone unit="para" rend="script"/>Et ideo dum uita manet, dum carpere lucem,  </l>
+            <l n="381">Dum paeniteri licet, prius quam terminus <choice n="0.03"><sic n="10">aeni</sic><corr n="264">aeui</corr></choice>  </l>
+            <l n="382"><choice><sic>Occnpet</sic><corr>Occupet</corr></choice> incautos et nescia lumina <choice><sic>solnat</sic><corr>soluat</corr></choice>  </l>
+            <l n="383"><sic n="poss">Yltimus</sic> ille dies mortis qui lege tenetur :  </l>
+            <l n="384">Quod primum <choice><sic>saperest</sic><corr>superest</corr></choice>, carae <choice><sic>nigilate</sic><corr>uigilate</corr></choice> <choice><sic>salati</sic><corr>saluti</corr></choice>  </l>
+             <l n="385">Et <choice><sic>fatiles</sic><corr>faciles</corr></choice> certique bonum <hi rend="italic">in</hi> deflectite cursum.  </l>
+            <l n="386">Post errata <choice><sic>snis</sic><corr>suis</corr></choice> et pressa piacula sacris  </l>
+            <l n="387">Postque uagae nimium quos <choice><sic>nexare</sic><corr>uexare</corr></choice> procellae  </l>
+            <l n="388">Rectas adite <choice n="0.00"><sic n="5">aias</sic><corr n="531">uias</corr></choice> et flamina laeta tenete.  </l>
+            <l n="389">Hinc laetis prius animis repellite crimen,  </l>
+            <l n="390">Et concreta diu proluatur pectore culpa,  </l>
+            <l n="391">Tunc conmissa mali mites abolete nefanda  </l>
+            <l n="392">Aeternisque Deum precibus placate tremendum,  </l>
+            <l n="393">Pessima cuncta. bonis cedant, mortalia <choice><sic>ninis</sic><corr>uiuis</corr></choice>.  </l>
+            <l n="394"><choice><sic>Consernate</sic><corr>Conseruate</corr></choice> nonam iam iam sine crimine <choice><sic>nitam</sic><corr>uitam</corr></choice> </l>
+
+<note type="footnote" rend="script"> 372 adueniant c. dno <hi rend="italic">T</hi> uerum] urm <hi rend="italic">W</hi> 373 conscendere v <lb/>
+            374 eademque <hi rend="italic">DTW</hi> tartare <hi rend="italic">W1</hi> 375 patent <hi rend="italic">DTW</hi> 376 nam <lb/>
+            <hi rend="italic">DTW, non v, fort</hi>. iam uelle sat est <hi rend="italic">post u</hi>. 376 lacunam tndtcaui <lb/>
+            378 laeto <hi rend="italic">DTW</hi> 379 sic cum <hi rend="italic">fort</hi>. 382 occupit <hi rend="italic">D</hi> <lb/>
+            383 morti <hi rend="italic">DW</hi> 384 care u. salutem <hi rend="italic">DTv</hi> 385 facile <hi rend="italic">DTWv</hi> <lb/>
+            certique <hi rend="italic">TW,</hi> eritque <hi rend="italic">Dv</hi> in <hi rend="italic">addidi</hi> deflectere v 386 erata <lb/>
+            <hi rend="italic">DTW,</hi> aerata <hi rend="italic">v</hi> 387 uaga <hi rend="italic">DT,</hi> uaca <hi rend="italic">W</hi> quos] quo uos <hi rend="italic">W,</hi> qua <lb/>
+            uos <hi rend="italic">T</hi> procella <hi rend="italic">W,</hi> procellas <hi rend="italic">DT fort</hi>. post quae uagae n. nos uexauere <lb/>
+            procellas - 388 fiammina <hi rend="italic">D,</hi> fiumina <hi rend="italic">W</hi> laeta <hi rend="italic">TW,</hi> recta Ds <lb/>
+            ten«*ete <hi rend="italic">W</hi> 389 laeta <hi rend="italic">DTW</hi> animus <hi rend="italic">W/</hi> 390 <hi rend="italic">concreta DTW,</hi> <lb/>
+            correcta <hi rend="italic">v</hi> prouoluatur <hi rend="italic">T</hi> 391 comissa <hi rend="italic">DT</hi> mala v nefandaa <lb/>
+            <hi rend="italic">DTW; fort</hi>. mentes a. nefandas 392 dum <hi rend="italic">DWl</hi> remendum <lb/>
+            <hi rend="italic">T</hi> 394 quid seroare <hi rend="italic">TW,</hi> quod seruare <hi rend="italic">D</hi> iam iam D </note> <lb/>
+             
+<pb n="325"/>
+            <l n="395">395 Et seruate pias ueroque in nomine mentes.  </l>
+            <l n="396">Ac ueniam <choice><sic>primie</sic><corr>primis</corr></choice> <choice><sic>snpplicea</sic><corr>supplices</corr></choice> rogate delictis.  </l>
+            <l n="397">Iam iam pura piis maturescant corda colonis,  </l>
+            <l n="398"><sic>Ihnocuasque</sic> manus precibus adtollite iustis  </l>
+            <l n="399">Laudibus et faciles diuinis reddite <choice n="0.01"><sic n="7">noces</sic><corr n="473">uoces</corr></choice>.  </l>
+            <l n="400">Incipiantque bonis uerisque adsuescere mentes,  </l>
+            <l n="401">Diuinaeque magis celebrentur munera legis,  </l>
+            <l n="402">Et memorate bona simulque inuadite facta.  </l>
+            <l n="403">Sordida uilescant olim conmissa malorum,  </l>
+            <l n="404">Et meliora piis flagrabunt omnia uobis,,  </l>
+            <l n="405">Horrendisque simul liberatur uita periclis  </l>
+            <l n="406">Adque aeterna suis ueniet ad praemia <choice n="0.36"><sic n="170">notis</sic><corr n="298">uotis</corr></choice>. </l>
+
+<note type="footnote"> 896 et ... in <hi rend="italic">T in ras</hi>. 396 supplicis <hi rend="italic">D</hi> rogata <hi rend="italic">T</hi> deleotis <lb/>
+            <hi rend="italic">W</hi> 400 incipiamque <hi rend="italic">TWl</hi> 402 morate <hi rend="italic">T</hi> bona <hi rend="italic">om. W</hi> <lb/>
+            403 sordita <hi rend="italic">D</hi> uilescant <hi rend="italic">W</hi> 1 <hi rend="italic">ex</hi> t, nitescant <hi rend="italic">DTv</hi> cum commissa <lb/>
+            <hi rend="italic">T</hi> 404 et <hi rend="italic">om. T</hi> flagrabant <hi rend="italic">W</hi> 405 periculis <hi rend="italic">T</hi> <lb/>
+            406 nenient <hi rend="italic">W</hi>. — Explicit D, Cecilii Cypriani ad Flatuum Felicem de <lb/>
+            resorrectione mortaorom explicit <hi rend="italic">T,</hi> Explicit de resarrectione mortuorum' <lb/>
+            Cecilii Cypriani ad Felicem <hi rend="italic">W</hi>. — </note> 
+<pb n="326"/>
+             
+<pb n="327"/>
+            
+
+
+</div>

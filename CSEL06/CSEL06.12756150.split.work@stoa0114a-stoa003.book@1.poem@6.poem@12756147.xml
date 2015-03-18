@@ -1,0 +1,76 @@
+<div xmlns="http://www.tei-c.org/ns/1.0" type="textpart" subtype="poem">
+          <l n="1"><milestone unit="para"/>1 Post canas hiemes, gelidi post damna profundi  </l>
+            <l n="2">Tranquillum quotiens nauita carpit iter,  </l>
+            <l n="3">Maeret et infidi desperat prospera ponti  </l>
+            <l n="4">Quamque uidet faciem non putat esse salis.  </l> 
+
+          <l n="5"><milestone unit="para"/> Sibilat aura leuis, ualidas timet ille procellas   </l>
+            <l n="6">Fluctibus et blandas aestimat esse minas.  </l> 
+
+          <l n="7"><milestone unit="para"/>Lintea si <choice><sic>orispant</sic><corr>crispant</corr></choice> Zephyri pendentia malo  </l>
+            <l n="8">Et dulci ludit spiritus obsequio,  </l>
+            <l n="9">Confusam uentis naturam perdere leges  </l>
+             <l n="10">Iurat et antiquum credit adesse chaos.  </l>
+ 
+          <l n="11"><milestone unit="para"/>Gaudia <choice><sic>sio</sic><corr>sic</corr></choice> tollunt placidis discrimina rebus:  </l>
+            <l n="12">Nulla fides laetis integra nec dubiis.  </l> 
+
+          <l n="13"><milestone unit="para"/>Non aliter uariis tenuit quos Roma periclis  </l>
+            <l n="14">Litoris optati reddidit ad gremium.  </l> 
+
+          <l n="15"><milestone unit="para"/> Permulcent pelagi numen uenerabile cantu,   </l>
+            <l n="16">Anchora quod proprium mordet obunca solum.  </l> 
+
+          <l n="17"><milestone unit="para"/>Flamina sed lassis tenerum factura soporem  </l>
+            <l n="18">Perturbant mentem militis aequorei.  </l> 
+
+          <l n="19"><milestone unit="para"/>Arma ratis <choice><sic>Bubigit</sic><corr>subigit</corr></choice>, remos et lintea uibrat:  </l>
+             <l n="20">Sic mens naufragium <choice><sic>euspicionis</sic><corr>suspicionis</corr></choice> habet.  </l>
+ 
+          <l n="21"><milestone unit="para"/>Adueniat <choice><sic>aiccis</sic><corr>siccis</corr></choice> qui pressit caerula plantis,  </l>
+
+
+
+<note type="footnote"> 7 Quid. Her. V 53 10 Quid. Met. II 299 16 cf. Verg. <lb/>
+            Aen. I 169 </note>
+
+<note type="footnote"> 1 monstrans dans <hi rend="italic">B</hi> 3 debet <hi rend="italic">T</hi> 5 diesidem <hi rend="italic">JB,</hi> reride<foreign xml:lang="grc">̃</foreign>∗∗ <lb/>
+            <hi rend="italic">( <foreign xml:lang="grc">̃</foreign>add.m. 2) T</hi>. </note>
+
+<note type="footnote" rend="script">1 VERBVS <hi rend="italic">inscr. T</hi> hieme <hi rend="italic">L</hi> dampna <hi rend="italic">ELPV</hi> 3 meret <lb/>
+            <hi rend="italic">BLTV</hi> disperat <hi rend="italic">BLV</hi> 4 uidet <hi rend="italic">EP</hi> 5 sybilat <hi rend="italic">LV</hi> <lb/>
+            7 zephiri <hi rend="italic">ET,</hi> zepheri <hi rend="italic">BL'</hi> mal///o <hi rend="italic">B</hi> 9 uentia] ueteria <hi rend="italic">E</hi> <lb/>
+            10 oahos <hi rend="italic">T</hi> 11 sic] si <hi rend="italic">PTb</hi> 18 tenuit nariia <hi rend="italic">ELPVb</hi> <lb/>
+            14 littoris <hi rend="italic">PT</hi> 19 subegit <hi rend="italic">Bb</hi> linthea <hi rend="italic">PTb</hi> 20 suspitionis <lb/>
+            <hi rend="italic">LPT</hi> 21 praessit <hi rend="italic">BLV</hi> cerula Iibri </note> <lb/>
+             
+<pb n="523"/>
+            <l n="22">(Nam <choice><sic>portm</sic><corr>portus</corr></choice> fessis ille salutis erit)  </l>
+            <l n="23">Qui latices uinxit <choice><sic>fundeos</sic><corr>fundens</corr></choice> in pocula <choice n="0.95"><sic n="2964">suum</sic><corr n="156">saxum</corr></choice>,  </l>
+            <l n="24">Qui lapides <choice><sic>Boluit</sic><corr>soluit</corr></choice>, qui solidauit aquas,  </l>
+             <l n="25">Quem genetrix <choice><sic>fadit</sic><corr>fudit</corr></choice> <choice><sic>saedis</sic><corr>saeclis</corr></choice> sine <choice><sic>semiae</sic><corr>semine</corr></choice> feta,   </l>
+            <l n="26">Ad matrem iungens uirginitatis onus,  </l>
+            <l n="27">Qui mortem propriae superauit munere mortis,  </l>
+            <l n="28">Dans <choice><sic>witam</sic><corr>uitam</corr></choice> mundo, funere quam <choice><sic>ptperit</sic><corr>peperit</corr></choice>:  </l>
+            <l n="29">Ille per <choice><sic>excelaum</sic><corr>excelsum</corr></choice> uideat me dexter <choice><sic>Olymyum</sic><corr>Olympum</corr></choice>.  </l> 
+
+          <l n="30"><milestone unit="para"/> Tunc patriam teneam. tunc stationis opem.  </l>
+ 
+          <l n="31"><milestone unit="para"/>Nubila laxati uerrant licet aequora uenti,  </l>
+            <l n="32">Rimosam puppim nil <choice><sic>noeitura</sic><corr>nocitura</corr></choice> petunt.  </l> 
+
+          <l n="33"><milestone unit="para"/>Dulcia conpositis quatiam tunc tympana chordis,  </l>
+            <l n="34">Floribus et pingam <choice n="0.00"><sic n="1">earmina</sic><corr n="596">carmina</corr></choice> nostra nouis.  </l> 
+
+          <l n="35"><milestone unit="para"/> Vt fatear, doctis constat bene dicere laetum:   </l>
+            <l n="36">Tristia nil capiunt pectora uersiloqui.  </l> 
+
+          <l n="37"><milestone unit="para"/>Sed redeat <choice><sic>uernom</sic><corr>uernum</corr></choice>, cesset iam bruma timoris.  </l> 
+
+          <l n="38"><milestone unit="para"/>Stringite quae nectant frondea serta comas:  </l>
+            <l n="39">Cantem quae solitus, dum plebem pasceret ore,  </l>
+             <l n="40"><choice><sic>Ambrosins</sic><corr>Ambrosius</corr></choice> uates carmina pulcra loqui.  </l>
+ 
+          
+
+</div>
